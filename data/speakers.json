@@ -1,0 +1,33 @@
+/* http://openconferenceprotocol.org/ */
+[
+	{
+		"Name": "Dave McClure",
+		"Bio": "Biography",
+		"Photo": "http://images/",
+		"Website": "http://url",
+		"Twitter": "@handler",
+		"Email": "email@email.com",
+		"Company": "500startups",
+		"Job Title": "overlord"
+	},
+	{		
+		"Name": "Dave McClure",
+		"Bio": "Biography",
+		"Photo": "http://images/",
+		"Website": "http://url",
+		"Twitter": "@handler",
+		"Email": "email@email.com",
+		"Company": "500startups",
+		"Job Title": "overlord"
+	},
+	{
+		"Name": "Dave McClure",
+		"Bio": "Biography",
+		"Photo": "http://images/",
+		"Website": "http://url",
+		"Twitter": "@handler",
+		"Email": "email@email.com",
+		"Company": "500startups",
+		"Job Title": "overlord"
+	}
+]

@@ -1,0 +1,20 @@
+/* http://openconferenceprotocol.org/ */
+[
+	{
+		"Session Code": "uid",
+		"Title": "summary",
+		"Time": "dtstart and dtend",
+		"Room": "location",
+		"Abstract": "description",
+		"Speakers": "contact (specified once per speaker)"
+	},
+	{
+		"Session Code": "uid",
+		"Title": "summary",
+		"Time": "dtstart and dtend",
+		"Room": "location",
+		"Abstract": "description",
+		"Speakers": "contact (specified once per speaker)"
+	}
+]
+
