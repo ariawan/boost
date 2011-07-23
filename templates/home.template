@@ -1,13 +1,27 @@
 <section class="copytext">
-	<h3>don't do a startup</h3>
-	<p></p>
+	<h3>Don't Do a Startup, You Will Fail!</h3>
+	<p>Statiscally speaking only 1 out of 10 startups will survive, doing a startup is difficult but its also deeply rewarding. 
+Learn, connect and get inspired by some of the top entrepreneurs and investors in the startup industry. 
+Join us we will help BOOST your chance of survival!</p>
 </section>
 <section class="call-to-action">
-	<h3>call-to-action</h3>
+	<form name="cta">
+		<input type="text" id="regularInput" value="email*">
+		<button type="submit">register</button>
+		<p>*no spam, cross our heart hope to die</p>
+	</form>
 </section>
 <section class="speakers-box">
-	<h3>speakers</h3>
+	<h4>Meet, Learn & Play With Those Who've Been There</h4>
+	<ul>
+		<li>
+			<figure>
+				<img>
+				<figcaption></figcaption>		
+			</figure>
+		</li>
+	</ul>
 </section>
 <aside id="sponsors">
-	<h3>sponsors</h3>
+	<h4>sponsors & partners</h4>
 </aside>
