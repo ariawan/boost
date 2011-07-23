@@ -216,19 +216,33 @@ cols    1     2      3      4      5      6      7      8      9      10
 px      68    160    252    344    436    528    620    712    804    896    */
 
 body {
-	width: 896px;
-	padding: 72px 48px 84px;
-	background: rgb(208/239/252);
+	position: relative;
+	padding: 72px 0px 84px;
+	border-top: solid .3em rgb(205/50/29);
+	background: white;
 	color: rgb(60/60/60);
 	-webkit-text-size-adjust: 100%; /* Stops Mobile Safari from auto-adjusting font-sizes */
 }
 
+header, footer, article, nav {
+    padding-left: 48px;
+    padding-right: 48px;
+    margin: 0 auto;
+    width: 896px;
+    position: relative;
+}
+
 header {
-	position: relative;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+article {
+	padding-top: 20px;
 }
 
 footer {
-	position: relative;
+	padding-top: 20px;
 }
 
 a {
@@ -242,9 +256,10 @@ hr {
 
 aside {
 	position: absolute;
-	right: 0px;
+	right: 48px;
 	width: 252px;
-	z-index: 800;	
+	z-index: 800;
+	padding-top: 20px;	
 }
 
 nav li {
@@ -263,10 +278,6 @@ nav a {
 	-webkit-transition: all 0.123s ease-out;
 }
 
-article {
-	position: relative;
-}
-
 section {
 	width: 620px;
 }
@@ -274,10 +285,6 @@ section {
 footer p {
 	font-size: 26px;
 	line-height: 36px;
-}
-
-#logo {
-	padding: 20px;
 }
 
 #sponsors {
