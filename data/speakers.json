@@ -1,4 +1,3 @@
-/* http://openconferenceprotocol.org/ */
 [
 	{
 		"Name": "Dave McClure",
@@ -11,23 +10,23 @@
 		"Job Title": "overlord"
 	},
 	{		
-		"Name": "Dave McClure",
+		"Name": "Jameson Chu",
 		"Bio": "Biography",
 		"Photo": "http://images/",
 		"Website": "http://url",
 		"Twitter": "@handler",
 		"Email": "email@email.com",
-		"Company": "500startups",
+		"Company": "MochiMedia",
 		"Job Title": "overlord"
 	},
 	{
-		"Name": "Dave McClure",
+		"Name": "Brent Hurley",
 		"Bio": "Biography",
 		"Photo": "http://images/",
 		"Website": "http://url",
 		"Twitter": "@handler",
 		"Email": "email@email.com",
-		"Company": "500startups",
+		"Company": "Youtube",
 		"Job Title": "overlord"
 	}
 ]

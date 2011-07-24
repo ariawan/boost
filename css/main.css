@@ -249,6 +249,10 @@ a {
 	text-decoration: none;
 }
 
+li {
+	list-style: none;
+}
+
 hr {
 	border: none;
 	clear: both;
@@ -264,7 +268,6 @@ aside {
 
 nav li {
 	float: left;
-	list-style: none;
 	width: 149.3px;
 	text-align: center;
 }
@@ -289,10 +292,6 @@ footer p {
 
 #sponsors {
 	top: 0px;
-}
-
-#share li {
-	list-style: none;
 }
 
 #share a {

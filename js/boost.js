@@ -4,7 +4,8 @@ var app = $.sammy('#main', function() {
 	this.use('Template');
 	
 	this.get('#/', function(context) {
-		this.partial('templates/home.template');
+    	this.partial('templates/home.template');
+    	this.load('data/speakers.json').renderEach('templates/home-speakers.template').appendTo('#speakers');			     	
 	});
 	
 	this.get('#/agenda', function(context) {

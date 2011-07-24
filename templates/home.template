@@ -13,13 +13,7 @@ Join us we will help BOOST your chance of survival!</p>
 </section>
 <section class="speakers-box">
 	<h4>Meet, Learn & Play With Those Who've Been There</h4>
-	<ul>
-		<li>
-			<figure>
-				<img>
-				<figcaption></figcaption>		
-			</figure>
-		</li>
+	<ul id="speakers">
 	</ul>
 </section>
 <aside id="sponsors">

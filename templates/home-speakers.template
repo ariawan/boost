@@ -1,0 +1,6 @@
+<li>
+	<figure>
+		<img>
+		<figcaption><%= Name %></figcaption>		
+	</figure>
+</li>
