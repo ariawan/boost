@@ -1,6 +1,12 @@
 <section class="breadcrumb">
 	<a href="#/">HOME</a> > AGENDA
 </section>
+<section class="agenda">
+	<h4>Day 1</h4>
+</section>
+<section class="agenda">
+	<h4>Day 2</h4>
+</section>
 <aside id="sponsors">
-	<h4>sponsors</h4>
+	<h4>sponsors & partners</h4>
 </aside>
