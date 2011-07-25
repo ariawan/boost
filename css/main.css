@@ -178,7 +178,8 @@ body {-webkit-tap-highlight-color: rgb(255,255,158);}
 		background: linear-gradient(top, rgba(255,255,255,.3) 0%,rgba(0,0,0,.3) 100%); /* W3C */
 	  border: 1px solid #888;
 	  border-top: 1px solid #aaa;
-	  border-left: 1px solid #aaa; }
+	  border-left: 1px solid 
+	  aaa; }
 
   a.button:active, 
   button:active,
@@ -218,7 +219,7 @@ px      68    160    252    344    436    528    620    712    804    896    */
 body {
 	position: relative;
 	padding: 72px 0px 84px;
-	border-top: solid .3em rgb(205/50/29);
+	border-top: solid 5px rgb(205/50/29);
 	background: white;
 	color: rgb(60/60/60);
 	-webkit-text-size-adjust: 100%; /* Stops Mobile Safari from auto-adjusting font-sizes */
@@ -300,6 +301,10 @@ footer p {
 	border: 1px solid #C3C3C3;
 }
 
+#follow {
+	padding-top: 20px;
+}
+
 
 
 
@@ -332,8 +337,42 @@ px      68    160    252    */
 @media only screen and (max-width: 767px) {
 	
 	body {
+		padding: 48px 0px 60px;
+		position: relative;
+		border-top: solid 5px rgb(205/50/29);
+		background: white;
+		color: rgb(60/60/60);
+		text-align: center;
+	}
+	
+	header, footer, article, nav {
+    	padding-left: 34px;
+    	padding-right: 34px;
+    	margin: 0 auto;
+    	width: 252px;
+    	position: relative;
+	}
+	
+	aside {
+		position: relative;
+		right: 0px;
 		width: 252px;
-		padding: 48px 34px 60px;
+		z-index: 0;
+		padding-top: 0px;	
+	}
+	
+	section {
+		width: 252px;	
+	}
+	
+	#logo {
+		margin-top: 20px;
+	}
+	
+	nav li {
+		float: left;
+		width: 252px;
+		text-align: center;
 	}
 	
 }
