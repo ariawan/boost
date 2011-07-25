@@ -1,6 +1,14 @@
 <section class="breadcrumb">
 	<a href="#/">HOME</a> > PARTICIPANTS
 </section>
+<section class="copytext">
+BOOST already have 100 confirmed participants. <span>Last update 10 July 2011</span>.
+</section>
+<section class="call-to-action">
+Are you in ? <button>REGISTER NOW</button> <span>early bird still valid</span>
+</section>
+<section class="table">
+</section>
 <aside id="sponsors">
 	<h4>sponsors & partners</h4>
 </aside>

@@ -1,5 +1,8 @@
 <section class="breadcrumb">
-	<a href="#/">HOME</a> > SPEAKERS
+	<a href="#/">HOME</a> > SPEAKERS & PANELIST
+</section>
+<section>
+	<ul class="speakers"></ul>
 </section>
 <aside id="sponsors">
 	<h4>sponsors & partners</h4>

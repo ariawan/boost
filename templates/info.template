@@ -1,6 +1,29 @@
 <section class="breadcrumb">
 	<a href="#/">HOME</a> > INFO
 </section>
+<section id="venue">
+	<h4>Venue</h4>
+	<div class="left">
+		<p>Intercontinental Hotel MiDPLAZA
+JL. JEND. SUDIRMAN KAV. 10-11 
+JAKARTA, 10220 - INDONESIA
+			<a>Open in Google Map</a>
+		</p>
+		<figure><img></figure>
+	</div>
+	<div class="right">
+		<p>Directions
+If you do not have pre-arranged transportation, please go to Golden Bird limousine counter at terminal 2, gate D or gate E and F of Soekarno-Hatta airport and request a Silver Bird taxi to drop you at the hotel. The hotel has a representative at the airport, can be reach at +62 21 708 86838 (8am to 11pm).</p>
+		<p>Contact Us
+Contact Person
+email@boost.com
++62-999-9999</p>
+	</div>
+</section>
+<section id="about">
+</section>
+<section id="team">
+</section>
 <aside id="sponsors">
 	<h4>sponsors & partners</h4>
 </aside>
