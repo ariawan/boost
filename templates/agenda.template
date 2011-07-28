@@ -2,10 +2,22 @@
 	<a href="#/">HOME</a> > AGENDA
 </section>
 <section class="agenda">
-	<h4>Day 1</h4>
+	<h4>Day 1: Intercontinental Jakarta</h4>
+	<div id="accordion1">
+	    <h3><a href="#">First header</a></h3>
+	    <div>First content</div>
+	    <h3><a href="#">Second header</a></h3>
+	    <div>Second content</div>
+	</div>
 </section>
 <section class="agenda">
-	<h4>Day 2</h4>
+	<h4>Day 2: Intercontinental Jakarta</h4>
+	<div id="accordion2">
+    	<h3><a href="#">First header</a></h3>
+    	<div>First content</div>
+    	<h3><a href="#">Second header</a></h3>
+    	<div>Second content</div>
+	</div>
 </section>
 <aside id="sponsors">
 	<h4>sponsors & partners</h4>
