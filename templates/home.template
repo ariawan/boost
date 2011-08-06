@@ -1,24 +1,22 @@
 <section class="copytext" style="margin-bottom:40px;">
 	<h3 style="text-align:center;padding: 40px 0px 20px 0px;">Don't Do a Startup, You Will Fail!</h3>
-	<p style="text-align:center;font-size:20px;line-height:30px;">Statiscally speaking only 1 out of 10 startups will survive, doing a startup is difficult but its also deeply rewarding.<br>Connect and get inspired by some of the top entrepreneurs and investors in the startup industry. 
+	<p style="text-align:center;font-size:20px;line-height:30px;font-weight:300;">Statiscally speaking only 1 out of 10 startups will survive, doing a startup is difficult but its also deeply rewarding.<br>Connect and get inspired by some of the top entrepreneurs and investors in the startup industry. 
 <br>Join us we will help BOOST your chance of survival!</p>
 </section>
 <section class="call-to-action" style="margin-bottom:40px;">
 	<form name="cta" style="text-align:center;">
 		<input type="text" id="regularInput" value="email*">
 		<button type="submit" style="align=center;">register</button>
-		<p>*no spam, cross our heart hope to die</p>
+		<p style="font-weight:100">*no spam, cross our heart hope to die</p>
 	</form>
 </section>
 <section class="speakers-box">
 	<ul id="speakers">
-		<li style="margin-right:50px;margin-bottom:40px;">
-		<figure>
-			<img src="http://placehold.it/150/F15A29/F15A29&text=-">		
-		</figure>
-		</li>
+		<div style="margin-right:50px;margin-bottom:40px;float:left;position:relative;font-weight:300;">			
+			<img src="http://placehold.it/150/F15A29/F15A29&text=-">
+			<span style="position:absolute;left:0;width:120px;top:10px;left:10px;color:#FFFFFF";>Meet, Learn & Play With Those Who've Been There</span>
+		</div>
 	</ul>
 </section>
 <aside id="sponsors">
-	<h4>sponsors & partners</h4>
 </aside>
