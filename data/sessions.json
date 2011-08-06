@@ -1,21 +1,153 @@
 [
 	{
-		"Session Code": "1",
-		"Title": "Incubator",
-		"Time": "dtstart and dtend",
-		"Room": "TBD",
-		"Abstract": "Incubator programs such as Y combinator has been hailed as the new platform for start ups to succeed. Join us behind the scenes as the world's top incubator program leaders describe the different incubation models and describe its origins.  Graduates of incubation programs will also share their experience.",
-		"Speakers": "Nils Johnson, Hiro Maeda, Antonny Liem",
-"Moderator": "TBD"
-
+		"Session Code": "001",
+		"Title": "Conference Registration",
+		"Time": "8:00, 9:00",
+		"Room": "Grand Ballroom",
+		"Abstract": "",
+		"Speakers": "",
+		"Moderator": ""
+ 
 	},
-	{
-		"Session Code": "uid",
-		"Title": "summary",
-		"Time": "dtstart and dtend",
-		"Room": "location",
-		"Abstract": "description",
-		"Speakers": "contact (specified once per speaker)"
+{
+		"Session Code": "002",
+		"Title": "Opening Remarks",
+		"Time": "9:00, 9:30",
+		"Room": "Grand Ballroom",
+		"Abstract": "",
+		"Speakers": "TBD",
+		"Moderator": ""
+ 
+	},
+{
+		"Session Code": "003",
+		"Title": "Keynote 1: Startup metrics for pirates - AAARR",
+		"Time": "9:30, 10:30",
+		"Room": "Grand Ballroom",
+		"Abstract": "Dave McClure believes that you need to be like a pirate to be a successful entrepreneur?? Listen to Dave as he discusses the basics startups need to know about product creation, collecting usage metrics, and making money",
+		"Speakers": "Dave McClure",
+		"Moderator": ""
+ 
+	},
+{
+		"Session Code": "004",
+		"Title": "Break",
+		"Time": "10:30, 11:00",
+		"Room": "",
+		"Abstract": "Sponsored by…",
+		"Speakers": "",
+		"Moderator": ""
+ 
+	},
+{
+		"Session Code": "005",
+		"Title": " Incubators: How to run one, and how to benefit from one",
+		"Time": "11:00, 12:15",
+		"Room": "Grand Ballroom – Room A",
+		"Abstract": "Incubator programs such as Y combinator has been hailed as the new platform for startups to succeed. Join us behind the scenes as the world's top incubator program leaders describe the different incubation models and describe its origins.  Graduates of incubation programs will also share their experience",
+		"Speakers": "Nils Johnson, Hiro Maeda, Antonny Liem ",
+		"Moderator": "TBD"
+ 
+	},
+{
+		"Session Code": "006",
+		"Title": "Financing and valuing startups",
+		"Time": "11:00, 12:15",
+		"Room": "Grand Ballroom – Room B",
+		"Abstract": "How much is my startup worth? How much should I raise from outside investors, and how much should I bootstrap it? Listen to entrepreneurs and venture capitalists as they discuss startup valuation and financing from different sides of the table.",
+		"Speakers": "TBD",
+		"Moderator": "TBD"
+ 
+	},
+{
+		"Session Code": "007",
+		"Title": "Lunch Buffett",
+		"Time": "12:15, 13:30",
+		"Room": "",
+		"Abstract": "Sponsored by…",
+		"Speakers": "",
+		"Moderator": ""
+ 
+	},
+{
+		"Session Code": "008",
+		"Title": "Should I make money now or later",
+		"Time": "13:30, 14:45",
+		"Room": "Grand Ballroom – Room A",
+		"Abstract": "Once your start up is up and running, how should you think about making money? Should you make money while acquiring users? Should you acquire users before making money? Listen to what the VCs and entrepreneurs think",
+		"Speakers": "Sunil Shah, Andy Zain",
+		"Moderator": "TBD"
+ 
+	},
+{
+		"Session Code": "009",
+		"Title": "Clones: Transferring business models from country to country",
+		"Time": "13:30, 14:45",
+		"Room": "Grand Ballroom – Room B",
+		"Abstract": "Many entrepreneurs have tried to bring business models from one region of the world to another. Listen entrepreneurs and VCs who’ve done it, and learn about the opportunities and the pitfalls of business model cloning.",
+		"Speakers": "TBD",
+		"Moderator": "TBD"
+ 
+	},
+{
+		"Session Code": "010",
+		"Title": "Break",
+		"Time": "14:45, 15:15",
+		"Room": "",
+		"Abstract": "Sponsored by…",
+		"Speakers": "",
+		"Moderator": ""
+ 
+	},
+{
+		"Session Code": "011",
+		"Title": "Lifecycle of a startup",
+		"Time": "15:15, 16:30",
+		"Room": "Grand Ballroom – Room A",
+		"Abstract": "Are you doing a startup today? Are you looking to invest in one? Successful entrepreneurs will share their experience of founding, growing, and potentially exiting their companies. The entrepreneurs will discuss how different the challenges are in developed markets like the valley vs. emerging markets like Indonesia.",
+		"Speakers": "Jia Shen, Brent Hurley",
+		"Moderator": "Aldi Haryopratomo"
+ 
+	},
+{
+		"Session Code": "012",
+		"Title": "Managing product creation",
+		"Time": "15:15, 16:30",
+		"Room": "Grand Ballroom – Room B",
+		"Abstract": "One of the first steps of founding a startup is building the product. Yet a startup has limited resources to do so. Join entrepreneurs and product managers to understand how they managed to design a top selling product with a shoestring budget.",
+		"Speakers": "Tetsuya Mizuguchi, Jameson Chu, Sizhao Yang",
+		"Moderator": "TBD"
+ 
+	},
+{
+		"Session Code": "013",
+		"Title": "Break",
+		"Time": "16:30, 17:00",
+		"Room": "",
+		"Abstract": "Sponsored by…",
+		"Speakers": "",
+		"Moderator": ""
+ 
+	},
+{
+		"Session Code": "014",
+		"Title": "Keynote 2: The potential for Social Media in Indonesia",
+		"Time": "17:00, 18:15",
+		"Room": "Grand Ballroom – Room A",
+		"Abstract": "Indonesian netizens are one of the largest consumers of social media in the world: Indonesia is the largest market for Foursquare, 2nd for Facebook, and 3rd for Twitter. Yet, Indonesia is not on the map for many of the social media firms in the world! How can one extract value out of Indonesia’s large user base? Join Nanda Ivens from Edelman Digital as he discusses the potential and issues facing the social media space in Indonesia.",
+		"Speakers": "Nanda Ivens",
+		"Moderator": ""
+ 
+	},
+{
+		"Session Code": "015",
+		"Title": "Dinner Buffett",
+		"Time": "18:15, 21:00",
+		"Room": "",
+		"Abstract": "Sponsored by…",
+		"Speakers": "",
+		"Moderator": ""
+ 
 	}
 ]
 
