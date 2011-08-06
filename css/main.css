@@ -41,23 +41,26 @@ a img {border: 0;}
 	font-size: 68px;
 	line-height: 72px;
 	letter-spacing: -1px;
-	color: rgb(205/50/29); 
+	color: rgb(205/50/29);
+	font-weight: 300; 
 }
 
 .large, h2 {
 	font-size: 42px;
 	line-height: 48px;
+	font-weight: 300;
 }
 
 .bigger, h3 {
 	font-size: 26px;
 	line-height: 36px;
+	font-weight: 300;
 }
 
 .big, h4 {
 	font-size: 22px;
 	line-height: 30px;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 body {
@@ -67,6 +70,7 @@ body {
 .small, small {
 	font-size: 13px;
 	line-height: 18px;
+	font-weight: 300;
 }
 
 /* Selection colours (easy to forget) */
@@ -147,14 +151,14 @@ nav li {
 	width: 149.3px;
 	text-align: center;
 	background: #F15A29;
+	font-size: 12px;
+	font-weight: 300;
 }
 
 nav a {
 	display: block;
 	padding: 11px 15px;
 	color: #FFFFFF;
-	box-shadow: inset 0 0 5px rgba(0,0,0, 0.05);
-	-webkit-transition: all 0.123s ease-out;
 }
 
 section {
@@ -164,6 +168,7 @@ section {
 footer p {
 	font-size: 26px;
 	line-height: 36px;
+	font-weight: 300;
 }
 
 #sponsors {
