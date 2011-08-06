@@ -1,12 +1,12 @@
-<section class="copytext" style="margin-bottom:40px;">
-	<h3 style="text-align:center;padding: 40px 0px 20px 0px;">Don't Do a Startup, You Will Fail!</h3>
+<section class="copytext" style="margin-bottom:20px;">
+	<h3 style="text-align:center;padding: 40px 0px 20px 0px;font-weight:500">Don't Do a Startup, You Will Fail!</h3>
 	<p style="text-align:center;font-size:20px;line-height:30px;font-weight:300;">Statiscally speaking only 1 out of 10 startups will survive, doing a startup is difficult but its also deeply rewarding.<br>Connect and get inspired by some of the top entrepreneurs and investors in the startup industry. 
 <br>Join us we will help BOOST your chance of survival!</p>
 </section>
 <section class="call-to-action" style="margin-bottom:40px;">
-	<form name="cta" style="text-align:center;">
-		<input type="text" id="regularInput" value="email*">
-		<button type="submit" style="align=center;">register</button>
+	<form name="cta" style="text-align:center">
+		<input type="email" name="email" value maxlength="80" title="Email" placeholder="Email*" >
+		<button type="submit">Register Now</button>
 		<p style="font-weight:100">*no spam, cross our heart hope to die</p>
 	</form>
 </section>

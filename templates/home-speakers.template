@@ -1,6 +1,6 @@
 <li style="margin-right:50px;margin-bottom:40px;">
 	<figure>
 		<img src="http://placehold.it/150">
-		<figcaption><%= Name %></figcaption>		
+		<figcaption style="font-weight:300"><%= Name %></figcaption>		
 	</figure>
 </li>
