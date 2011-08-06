@@ -271,12 +271,13 @@ nav li {
 	float: left;
 	width: 149.3px;
 	text-align: center;
+	background: #F15A29;
 }
 
 nav a {
 	display: block;
 	padding: 11px 15px;
-	color: #3C619E;
+	color: #FFFFFF;
 	border: 1px solid #C3C3C3;
 	box-shadow: inset 0 0 5px rgba(0,0,0, 0.05);
 	-webkit-transition: all 0.123s ease-out;
