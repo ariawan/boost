@@ -219,10 +219,11 @@ px      68    160    252    344    436    528    620    712    804    896    */
 body {
 	position: relative;
 	padding: 72px 0px 84px;
-	border-top: solid 5px rgb(205/50/29);
+	border-top: solid 5px #F15A29;
 	background: white;
-	color: rgb(60/60/60);
+	color: #808080;
 	-webkit-text-size-adjust: 100%; /* Stops Mobile Safari from auto-adjusting font-sizes */
+	font-family: Verdana;
 }
 
 header, footer, article, nav {
@@ -252,6 +253,11 @@ a {
 
 li {
 	list-style: none;
+	float: left;
+}
+
+figcaption {
+	text-align: center;
 }
 
 hr {

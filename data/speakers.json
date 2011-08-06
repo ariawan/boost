@@ -28,5 +28,25 @@
 		"Email": "email@email.com",
 		"Company": "Youtube",
 		"Job Title": "overlord"
+	},
+	{
+		"Name": "Brent Hurley",
+		"Bio": "Biography",
+		"Photo": "http://images/",
+		"Website": "http://url",
+		"Twitter": "@handler",
+		"Email": "email@email.com",
+		"Company": "Youtube",
+		"Job Title": "overlord"
+	},
+	{
+		"Name": "Brent Hurley",
+		"Bio": "Biography",
+		"Photo": "http://images/",
+		"Website": "http://url",
+		"Twitter": "@handler",
+		"Email": "email@email.com",
+		"Company": "Youtube",
+		"Job Title": "overlord"
 	}
 ]
