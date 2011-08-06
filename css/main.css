@@ -61,7 +61,7 @@ a img {border: 0;}
 }
 
 body {
-	font: 16px/24px 'Carme', sans-serif;
+	font: 16px/24px museo-sans,sans-serif;;
 }
 
 .small, small {
