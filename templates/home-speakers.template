@@ -1,4 +1,4 @@
-<li style="margin-right:40px;margin-bottom:40px;">
+<li style="margin-right:50px;margin-bottom:40px;">
 	<figure>
 		<img src="http://placehold.it/150">
 		<figcaption><%= Name %></figcaption>		
