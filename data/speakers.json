@@ -74,4 +74,45 @@ Nanda is presently working as Director of Digital for IndoPasific Edelman and Di
 		"Company": "Indopasific Edelman",
 		"Job Title": "Director"
 	},
+	{
+		"Name": "Antonny Liem",
+		"Bio": "Antonny Liem is the Chief Operating Officer at PT. MerahCipta Media – A holding group company for SemutApi Colony, Klix Digital, and MediaXasia. As a Chief Operating Officer of these 3 companies, Antonny starts to fulfill his dream : put Indonesia as one of the digital key player in global market. After finished his formal education, he went to Japan for International Exchange Program for a year, and return in 1999 for Final Thesis and graduation. Then, started from 1999, he experienced many positions in several places, such as Business Development Manager at Infrantier Indonesia in 2001, and President Director at Transmarco Data Systems in 2003. He is also one of the founder of Indonesian Young Executives Community with Billy Boen. With IYEC, Antonny Liem is always tries to develop young people to maximize their potential to become even better.",
+		"Photo": "http://images/",
+		"Website": "http://www.semutapi.com ",
+		"Twitter": "",
+		"Company": "Merah Putih Incubator",
+		"Job Title": "Chief Executive Officer"
+	},
+	{
+		"Name": "Andy Zain",
+		"Bio": "Andy Zain is regarded as one of the mobile industry pioneers in Indonesia. Over the past decade, he had involved in numerous 'industry first' initiatives, such as the first ringtone service, the first WAP portal, first mobile banking and m-commerce service in Indonesia. He had in depth business development experiences, managing products and services for some of the most admired global brands including Apple Computers, Nokia, Yahoo!, Disney, etc.
+
+Andy is a co-founder and President Director of Elasitas, a leading mobile content aggregator and platform provider for telcos across Asia Pacific and the Middle East. He also active in directing investment initiatives on several mobile startups in the region.
+
+Andy Zain founded MobileMonday Indonesia, part of the global networking forum for professionals in the mobile industry. He is also Vice Chairman of Indonesian Chamber of Commerce and Industry, overseeing contents and applications sub-committee.",
+		"Photo": "http://images/",
+		"Website": "http://www.id-mobilemonday.com",
+		"Twitter": "@andyzain",
+		"Company": "MobileMonday Indonesia",
+		"Job Title": "Founder"
+	},
+	{
+		"Name": "Hiro Maeda",
+		"Bio": "To Come",
+		"Photo": "http://images/",
+		"Website": "http://hiromaeda.com/",
+		"Twitter": "@djtokyo",
+		"Company": "Open Network Labs",
+		"Job Title": "Founder"
+	},
+	{
+		"Name": "Nils Johnson",
+		"Bio": "Entrepreneur and angel investor/advisor from Y-Combinator. Nils is currently CEO and founder of makeup and cosmetics review community Beautylish. Nils was CEO and founder of Aryty, a mobile payment transmission gateway in Philippines, India and Brazil before. Through Y-Combinator, Nils has invested into early stage startups, including KissMetrics, Twitter, Hipmunk, Blippy, WePay, RethinkDB, Mochi Media, etc.",
+		"Photo": "http://images/",
+		"Website": "http://ycombinator.com",
+		"Twitter": "",
+		"Company": "Y combinator",
+		"Job Title": "Partner"
+	}
+
 ]
