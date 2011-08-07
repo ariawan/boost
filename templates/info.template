@@ -22,4 +22,5 @@ email@boost.com
 <section id="team">
 </section>
 <aside id="sponsors">
+	<div class="sponsors"></div>
 </aside>

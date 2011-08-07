@@ -2,4 +2,5 @@
 	<ul class="speakers"></ul>
 </section>
 <aside id="sponsors">
+	<div class="sponsors"></div>
 </aside>

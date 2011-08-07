@@ -1,10 +1,9 @@
 <section class="copytext">
-BOOST already have 100 confirmed participants. <span>Last update 10 July 2011</span>.
 </section>
 <section class="call-to-action">
-Are you in ? <button>REGISTER NOW</button> <span>early bird still valid</span>
 </section>
 <section class="table">
 </section>
 <aside id="sponsors">
+	<div class="sponsors"></div>
 </aside>

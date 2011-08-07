@@ -1,9 +1,9 @@
 <section class="copytext">
-	<h4>TBD</h4>
 </section>
 <section class="copytext">
 </section>
 <section class="call-to-action">
 </section>
 <aside id="sponsors">
+	<div class="sponsors"></div>
 </aside>
