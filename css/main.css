@@ -196,7 +196,7 @@ aside {
 	position: absolute;
 	right: 48px;
 	width: 252px;
-	z-index: 800;
+	z-index: 5000;
 	padding-top: 20px;	
 }
 
@@ -240,9 +240,16 @@ footer p {
 	font-weight: 300;
 }
 
-#sponsors {
+aside #sponsors {
 	top: 0px;
+	
 }
+
+div.sponsors {
+	height: 100px;
+	border:1px solid black;
+}
+
 
 #share a {
 	text-align: center;
