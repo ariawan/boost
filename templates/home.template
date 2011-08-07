@@ -4,7 +4,7 @@
 <br>Join us we will help BOOST your chance of survival!</p>
 </section>
 <section class="call-to-action" style="padding-bottom:20px;">
-	<form name="cta" style="text-align:center">
+	<form name="cta" action="#/save_email" method="get" style="text-align:center">
 		<input type="email" name="email" value maxlength="80" title="Email" placeholder="Email*" >
 		<button type="submit">Register Now</button>
 		<p style="font-weight:100">*no spam, cross our heart hope to die</p>

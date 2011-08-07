@@ -64,7 +64,7 @@ a img {border: 0;}
 }
 
 body {
-	font: 16px/24px museo-sans,sans-serif;;
+	font: 16px/24px museo-sans,sans-serif;
 }
 
 .small, small {
@@ -72,6 +72,8 @@ body {
 	line-height: 18px;
 	font-weight: 300;
 }
+
+
 
 /* Selection colours (easy to forget) */
 

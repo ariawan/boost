@@ -1,19 +1,60 @@
-<section class="agenda">
-	<h4>Day 1: Intercontinental Jakarta</h4>
-	<div id="accordion1">
-	    <h3><a href="#">First header</a></h3>
-	    <div>First content</div>
-	    <h3><a href="#">Second header</a></h3>
-	    <div>Second content</div>
+<section class="agenda" style="margin-top:30px;">
+	<h4 style="text-align:center;font-weight:300;margin-bottom:10px;">Day 1: Intercontinental Jakarta</h4>
+	<div style="width:300px;float:left;font-weight:500;text-align:center;">Investor Track</div>
+	<div style="width:300px;float:right;font-weight:500;text-align:center;">Entrepreneur Track</div>
+	<div id="accordion1-left" style="width:300px;float:left;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
+	    <h3><a href="#">09:00-09:30 Registration</a></h3>
+	    <div>registration in lobby, please be on time, breakfast provided</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	</div>
+	
+	<div id="accordion1-right" style="width:300px;float:right;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
+	    <h3><a href="#">09:00-09:30 Registration</a></h3>
+	    <div>registration in lobby, please be on time, breakfast provided</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
 	</div>
 </section>
-<section class="agenda">
-	<h4>Day 2: Intercontinental Jakarta</h4>
-	<div id="accordion2">
-    	<h3><a href="#">First header</a></h3>
-    	<div>First content</div>
-    	<h3><a href="#">Second header</a></h3>
-    	<div>Second content</div>
+<section class="agenda" style="margin-top:30px;">
+	<h4 style="text-align:center;font-weight:300;margin-bottom:10px;">Day 2: Intercontinental Jakarta</h4>
+	<div style="width:300px;float:left;font-weight:500;text-align:center;">Investor Track</div>
+	<div style="width:300px;float:right;font-weight:500;text-align:center;">Entrepreneur Track</div>
+	<div id="accordion2-left" style="width:300px;float:left;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
+    	<h3><a href="#">09:00-09:30 Registration</a></h3>
+	    <div>registration in lobby</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	</div>
+	<div id="accordion2-right" style="width:300px;float:right;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
+    	<h3><a href="#">09:00-09:30 Registration</a></h3>
+	    <div>registration in lobby</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
+	    <h3><a href="#">09:30-10:30 Opening</a></h3>
+	    <div>opening remarks</div>
 	</div>
 </section>
 <aside id="sponsors">

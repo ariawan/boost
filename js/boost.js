@@ -13,8 +13,10 @@ var app = $.sammy('#main', function() {
 	
 	this.get('#/agenda', function(context) {
 		this.partial('templates/agenda.template').then(function(){
-			$('#accordion1').accordion();
-			$('#accordion2').accordion();
+			$('#accordion1-left').accordion();
+			$('#accordion1-right').accordion();
+			$('#accordion2-left').accordion();
+			$('#accordion2-right').accordion();
 			$('li a').removeClass('active');
 			$('#nav_agenda').addClass('active');
 		});	
@@ -60,6 +62,22 @@ var app = $.sammy('#main', function() {
 		});	
 
 	});
+	
+	this.get('#/save_email', function(context) {
+    	var email = this.params['email'];
+   		$.ajax({
+   			type: "POST",
+   			url: "https://mongolab.com/api/1/databases/boost/collections/emails?apiKey=4e2b7fe95e4cc8b7512975a3",
+   			data: { "email": email },
+ 			dataType: "json",
+ 			success: function(msg){
+         		alert(msg);
+      		}
+ 		});
+   		this.partial('templates/home.template');
+    	this.load('data/speakers.json').renderEach('templates/home-speakers.template').appendTo('#speakers');
+    	$('li a').removeClass('active');
+    });
 	
 });
 
