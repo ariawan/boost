@@ -3,58 +3,76 @@
 	<div style="width:300px;float:left;font-weight:500;text-align:center;">Investor Track</div>
 	<div style="width:300px;float:right;font-weight:500;text-align:center;">Entrepreneur Track</div>
 	<div id="accordion1-left" style="width:300px;float:left;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
-	    <h3><a href="#">09:00-09:30 Registration</a></h3>
-	    <div>registration in lobby, please be on time, breakfast provided</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
+	    <h3><a href="#"><span style="font-weight:100">08:00-09:00</span><br>Conference Registration</a></h3>
+	    <div>Grand Ballroom</div>
+	    <h3><a href="#"><span style="font-weight:100">09:00-09:30</span><br>Opening Remark</a></h3>
+	    <div>Grand Ballroom</div>
+	    <h3><a href="#"><span style="font-weight:100">09:30-10:30</span><br>Keynote 1: Dave McClure</a></h3>
+	    <div>Grand Ballroom</div>
+	    <h3><a href="#"><span style="font-weight:100">10:30-11:00</span><br>Break</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">11:00-12:15</span><br>Incubators: How to run one</a></h3>
+	    <div>Grand Ballroom - Room A</div>
+	    <h3><a href="#"><span style="font-weight:100">12:15-13:30</span><br>Lunch Buffet</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">13:30-14:45</span><br>Clones: Transferring business models</a></h3>
+	    <div>Grand Ballroom - Room B</div>
+	    <h3><a href="#"><span style="font-weight:100">14:45-15:15</span><br>Break</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">15:15-16:30</span><br>Lifecycle of a startup</a></h3>
+	    <div>Grand Ballroom - Room A</div>
+	    <h3><a href="#"><span style="font-weight:100">16:30-17:00</span><br>Break</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">17:00-18:15</span><br>Keynote 2: Nanda Ivens</a></h3>
+	    <div>Grand Ballroom - Room A</div>
+	    <h3><a href="#"><span style="font-weight:100">18:15-21:00</span><br>Dinner Buffet</a></h3>
+	    <div>Sponsored by</div>
 	</div>
 	
 	<div id="accordion1-right" style="width:300px;float:right;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
-	    <h3><a href="#">09:00-09:30 Registration</a></h3>
-	    <div>registration in lobby, please be on time, breakfast provided</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
+	    <h3><a href="#"><span style="font-weight:100">08:00-09:00</span><br>Conference Registration</a></h3>
+	    <div>Grand Ballroom</div>
+	    <h3><a href="#"><span style="font-weight:100">09:00-09:30</span><br>Opening Remark</a></h3>
+	    <div>Grand Ballroom</div>
+	    <h3><a href="#"><span style="font-weight:100">09:30-10:30</span><br>Keynote 1: Dave McClure</a></h3>
+	    <div>Grand Ballroom</div>
+	    <h3><a href="#"><span style="font-weight:100">10:30-11:00</span><br>Break</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">11:00-12:15</span><br>Financing and valuing startups</a></h3>
+	    <div>Grand Ballroom - Room B</div>
+	    <h3><a href="#"><span style="font-weight:100">12:15-13:30</span><br>Lunch Buffet</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">13:30-14:45</span><br>Should I make money now or later</a></h3>
+	    <div>Grand Ballroom - Room A</div>
+	    <h3><a href="#"><span style="font-weight:100">14:45-15:15</span><br>Break</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">15:15-16:30</span><br>Managing product development</a></h3>
+	    <div>Grand Ballroom - Room B</div>
+	    <h3><a href="#"><span style="font-weight:100">16:30-17:00</span><br>Break</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">17:00-18:15</span><br>Keynote 2: Nanda Ivens</a></h3>
+	    <div>Grand Ballroom - Room A</div>
+	    <h3><a href="#"><span style="font-weight:100">18:15-21:00</span><br>Dinner Buffet</a></h3>
+	    <div>Sponsored by</div>
 	</div>
 </section>
 <section class="agenda" style="margin-top:30px;">
 	<h4 style="text-align:center;font-weight:300;margin-bottom:10px;">Day 2: Intercontinental Jakarta</h4>
-	<div style="width:300px;float:left;font-weight:500;text-align:center;">Investor Track</div>
-	<div style="width:300px;float:right;font-weight:500;text-align:center;">Entrepreneur Track</div>
-	<div id="accordion2-left" style="width:300px;float:left;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
-    	<h3><a href="#">09:00-09:30 Registration</a></h3>
-	    <div>registration in lobby</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	</div>
-	<div id="accordion2-right" style="width:300px;float:right;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
-    	<h3><a href="#">09:00-09:30 Registration</a></h3>
-	    <div>registration in lobby</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
-	    <h3><a href="#">09:30-10:30 Opening</a></h3>
-	    <div>opening remarks</div>
+	<div id="accordion2-left" style="font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
+    	<h3><a href="#"><span style="font-weight:100">10:00-12:00</span><br>Launchpad</a></h3>
+	    <div>Grand Ballroom</div>
+	    <h3><a href="#"><span style="font-weight:100">12:00-13:15</span><br>Lunch Buffet</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">13:15-14:30</span><br>Keynote 3: TBD</a></h3>
+	    <div>Grand Ballroom</div>
+	    <h3><a href="#"><span style="font-weight:100">14:30-15:00</span><br>Break</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">15:00-16:15</span><br>Mentoring Sessions</a></h3>
+	    <div>TBD</div>
+	    <h3><a href="#"><span style="font-weight:100">16:15-16:45</span><br>Break</a></h3>
+	    <div>Sponsored by</div>
+	    <h3><a href="#"><span style="font-weight:100">16:45-17:00</span><br>Closing Remark</a></h3>
+	    <div>Grand Ballroom</div>
 	</div>
 </section>
 <aside id="sponsors">

@@ -70,9 +70,9 @@ var app = $.sammy('#main', function() {
    			url: "https://mongolab.com/api/1/databases/boost/collections/emails?apiKey=4e2b7fe95e4cc8b7512975a3",
    			data: { "email": email },
  			dataType: "json",
- 			contentType: "application/json",
+ 			contentType: "application/json;charset",
  			success: function(msg){
-         		alert(msg);
+         		alert(msg['message']);
       		}
  		});
    		this.partial('templates/home.template');
