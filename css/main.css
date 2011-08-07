@@ -261,7 +261,9 @@ div.sponsors {
 	padding-top: 20px;
 }
 
-
+.obscure {
+	unicode-bidi:bidi-override; direction: rtl;
+}
 
 
 /*		Tablet Layout: 768px.

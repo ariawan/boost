@@ -1,23 +1,27 @@
-<section id="venue">
-	<h4>Venue</h4>
-	<div class="left">
-		<p>Intercontinental Hotel MIDPLAZA
-JL. JEND. SUDIRMAN KAV. 10-11 
+<section id="venue" style="margin-top:30px;">
+	<h4>VENUE</h4>
+	<div class="left" style="float:left;width:252px;font-weight:300;">
+		<p style="line-height:30px;"><a href="http://www.ichotelsgroup.com/intercontinental/en/gb/locations/jakarta">Intercontinental Hotel MIDPLAZA</a><br>
+JL. Jend. Sudirman Kav. 10-11<br> 
 JAKARTA, 10220 - INDONESIA<br>
-			<a href="http://maps.google.com/maps?q=intercontinental+hotel+jakarta&ll=-6.208714,106.819596&spn=0.014463,0.022252&fb=1&cid=0,0,13207658356166097550&z=16">Open in Google Map</a>
+			<a href="http://maps.google.com/maps?q=intercontinental+hotel+jakarta&ll=-6.208714,106.819596&spn=0.014463,0.022252&fb=1&cid=0,0,13207658356166097550&z=16">open in Google map</a>
 		</p>
-		<figure><img></figure>
+		<figure style="margin-top:20px"><img src="/images/map.png"></figure>
 	</div>
-	<div class="right">
-		<p>Directions
-If you do not have pre-arranged transportation, please go to Golden Bird limousine counter at terminal 2, gate D or gate E and F of Soekarno-Hatta airport and request a Silver Bird taxi to drop you at the hotel. The hotel has a representative at the airport, can be reach at +62 21 708 86838 (8am to 11pm).</p>
-		<p>Contact Us
-Contact Person
-email@boost.com
+	<div class="right" style="float:right;width:252px;">
+		<p style="line-height:30px;font-weight:300;"><span style="font-weight:500;">Directions</span><br>
+If you do not have pre-arranged transportation, please go to Golden Bird limousine counter at terminal 2, gate D or gate E and F of Soekarno-Hatta airport and request a Silver Bird taxi to drop you at the hotel. The hotel has a representative at the airport, can be reach at +62-21-708-86838 (8am to 11pm).</p>
+		<p style="line-height:30px;font-weight:300;margin-top:15px;"><span style="font-weight:500;">Contact BOOST</span><br>
+<span class="obscure">moc.liamg@aisenodni.tsoob</span><br>
 +62-999-9999</p>
 	</div>
 </section>
-<section id="about">
+<section id="about" style="margin-top:30px;">
+	<h4 style="margin-bottom:10px">ABOUT</h4>
+	<p style="line-height:30px;font-weight:300;"><span style="font-weight:500;">What is BOOST?</span><br>
+What started as a simple idea to bring entrepreneurs from the US and Japan to Indonesia has now become something much larger than that. Boost is not just a conference to “meet-and-greet”. It’s about creating a forum to allow young Indonesian entrepreneurs to interact with their more established peers in the US and Japan. Tech entrepreneurs from abroad will share their stories of success, failures, and perseverance. They will provide tips on product creation, monetization, and fund raising. All for the sole purpose of Boosting the prospects of young startups in Indonesia and South East Asia.
+Join us for Boost’s first ever event in Jakarta
+	</p>
 </section>
 <section id="team">
 </section>
