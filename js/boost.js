@@ -18,7 +18,7 @@ var app = $.sammy('#main', function() {
 			$('#accordion2-left').accordion({ autoHeight: false });
 			$('#accordion2-right').accordion({ autoHeight: false });
 			$('li a').removeClass('active');
-			$('#nav_agenda').addClass('active');
+			$('a.nav_agenda').addClass('active');
 		});	
 
 	});
@@ -26,7 +26,7 @@ var app = $.sammy('#main', function() {
 	this.get('#/info', function(context) {
 		this.partial('templates/info.template').then(function() {
 			$('li a').removeClass('active');
-			$('#nav_info').addClass('active');
+			$('a.nav_info').addClass('active');
 		});
 
 	});
@@ -34,7 +34,7 @@ var app = $.sammy('#main', function() {
 	this.get('#/participants', function(context) {
 		this.partial('templates/participants.template').then(function() {
 			$('li a').removeClass('active');
-			$('#nav_participants').addClass('active');
+			$('a.nav_participants').addClass('active');
 		});
 
 	});
@@ -42,7 +42,7 @@ var app = $.sammy('#main', function() {
 	this.get('#/press', function(context) {
 		this.partial('templates/press.template').then(function() {
 			$('li a').removeClass('active');
-			$('#nav_press').addClass('active');
+			$('a.nav_press').addClass('active');
 		});
 
 	});
@@ -50,7 +50,7 @@ var app = $.sammy('#main', function() {
 	this.get('#/registration', function(context) {
 		this.partial('templates/registration.template').then(function() {
 			$('li a').removeClass('active');
-			$('#nav_registration').addClass('active');
+			$('a.nav_registration').addClass('active');
 		});
 
 	});
@@ -58,7 +58,7 @@ var app = $.sammy('#main', function() {
 	this.get('#/speakers', function(context) {
 		this.partial('templates/speakers.template').then(function() {
 			$('li a').removeClass('active');
-			$('#nav_speakers').addClass('active');
+			$('a.nav_speakers').addClass('active');
 		});	
 
 	});

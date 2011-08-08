@@ -146,7 +146,7 @@ body {
 	padding: 72px 0px 84px;
 	border-top: solid 5px #F15A29;
 	background: white;
-	color: #A8A8A8;
+	color: #808080;
 	-webkit-text-size-adjust: 100%; /* Stops Mobile Safari from auto-adjusting font-sizes */
 }
 
@@ -263,8 +263,12 @@ div.sponsors {
 	padding-top: 20px;
 }
 
-.obscure {
+#obscure {
 	unicode-bidi:bidi-override; direction: rtl;
+}
+
+.sidehead {
+	text-align:right;
 }
 
 
@@ -299,9 +303,9 @@ px      68    160    252    */
 	body {
 		padding: 48px 0px 60px;
 		position: relative;
-		border-top: solid 5px rgb(205/50/29);
+		border-top: solid 5px #F15A29;
 		background: white;
-		color: rgb(60/60/60);
+		color: #808080;
 		text-align: center;
 	}
 	
@@ -330,8 +334,27 @@ px      68    160    252    */
 	
 	nav li {
 		float: left;
-		width: 252px;
 		text-align: center;
+	}
+	
+	li.nav_registration {
+		width: 210px;
+	}
+	
+	li.nav_agenda, li.nav_speakers {
+		width: 50%;
+	}
+	
+	li.nav_info, li.nav_press {
+		width: 50%;
+	}
+	
+	li.nav_participants {
+		width: 100%;
+	}
+	
+	.sidehead {
+		text-align:center;
 	}
 	
 }
