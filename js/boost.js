@@ -72,7 +72,7 @@ var app = $.sammy('#main', function() {
  			dataType: "json",
  			contentType: "application/json;charset",
  			success: function(msg){
-         		alert(msg['message']);
+         		alert('thanks! '+msg['email']);
       		}
  		});
    		this.partial('templates/home.template');
