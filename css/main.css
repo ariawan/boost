@@ -211,6 +211,10 @@ nav li {
 	font-weight: 300;
 }
 
+.nav_home {
+	width: 5%;
+}
+
 nav a {
 	display: block;
 	padding: 11px 15px;
@@ -337,8 +341,12 @@ px      68    160    252    */
 		text-align: center;
 	}
 	
+	.nav_home {
+		width: 20%
+	}
+	
 	li.nav_registration {
-		width: 210px;
+		width: 80%;
 	}
 	
 	li.nav_agenda, li.nav_speakers {
