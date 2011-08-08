@@ -64,11 +64,11 @@ var app = $.sammy('#main', function() {
 	});
 	
 	this.get('#/save_email', function(context) {
-    	var email = this.params['email'];
+    	var email = JSON.stringify({"email":this.params['email']}) ;  
    		$.ajax({
    			type: "POST",
    			url: "https://mongolab.com/api/1/databases/boost/collections/emails?apiKey=4e2b7fe95e4cc8b7512975a3",
-   			data: JSON.stringify{ "email": email },
+   			data: email,
  			dataType: "json",
  			contentType: "application/json;charset",
  			success: function(msg){
