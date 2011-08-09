@@ -267,8 +267,9 @@ div.sponsors {
 	padding-top: 20px;
 }
 
-#obscure {
-	unicode-bidi:bidi-override; direction: rtl;
+.obscure {
+	unicode-bidi:bidi-override; 
+	direction: rtl;
 }
 
 .sidehead {
