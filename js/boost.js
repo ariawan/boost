@@ -40,11 +40,9 @@ var app = $.sammy('#main', function() {
 	});
 	
 	this.get('#/press', function(context) {
-		this.partial('templates/press.template').then(function() {
-			$('li a').removeClass('active');
-			$('a.nav_press').addClass('active');
-		});
-
+		this.partial('templates/press.template');			
+		$('li a').removeClass('active');
+		$('a.nav_press').addClass('active');
 	});
 	
 	this.get('#/registration', function(context) {
@@ -56,10 +54,10 @@ var app = $.sammy('#main', function() {
 	});
 	
 	this.get('#/speakers', function(context) {
-		this.partial('templates/speakers.template').then(function() {
-			$('li a').removeClass('active');
-			$('a.nav_speakers').addClass('active');
-		});	
+		this.partial('templates/speakers.template')
+		this.load('data/speakers.json').renderEach('templates/speakers-bio.template').appendTo('#speakers');
+		$('li a').removeClass('active');
+		$('a.nav_speakers').addClass('active');
 
 	});
 	
