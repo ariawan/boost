@@ -1,8 +1,8 @@
 <li style="margin-bottom:40px;">
 	<figure style="position:relative;">
-		<img style="float:left;width:120px;padding:5px 45px 20px 20px;" src="http://placehold.it/120">
-		<figcaption style="position:absolute;display:block;margin-left:184px;font-size:16px;text-align:left;width:446px;"><%= Name %> - <%= Job_Title %> - <%= Company %></figcaption>
-		<div class="speakers-contact" style="position:absolute;display:block;margin:30px 0 0 184px;font-weight:300;font-size:14px;text-align:left;width:446px;"><a href="http://twitter.com/<%= Twitter %>" target="_blank"><%= Twitter %></a></div>
-		<p class="speakers-bio" style="padding-top:60px;padding-left:20px;font-weight:300;font-size:14px;line-height:30px"><%= Bio %></p>	
+		<img style="float:left;width:120px;padding:5px 45px 20px 20px;" src="<%= Photo %>">
+		<figcaption style="position:absolute;display:block;margin-left:184px;font-size:16px;text-align:left;width:446px;"><%= Name %> - <a href="http://twitter.com/<%= Twitter %>" target="_blank" style="font-weight:300">@<%= Twitter %></a></figcaption>
+		<div class="speakers-contact" style="position:absolute;display:block;margin:30px 0 0 184px;font-weight:300;font-size:14px;text-align:left;width:446px;"><%= Job_Title %> - <%= Company %></div>
+		<p class="speakers-bio" style="padding-top:60px;padding-left:20px;font-weight:300;font-size:14px;line-height:150%"><%= Bio %></p>	
 	</figure>
 </li>

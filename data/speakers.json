@@ -2,25 +2,25 @@
 		{
 		"Name": "Dave McClure",
 		"Bio": "Dave McClure is a greedy venture capitalist & founding partner at 500 Startups, an internet startup seed fund and incubator program in Mountain View, CA. He likes to hang out with entrepreneurs, and occasionally help or invest in their startups if they are foolish enough to let him. Dave has been geeking out in Silicon Valley for over twenty years, and has worked with companies such as PayPal, Mint, Founders Fund, Facebook, LinkedIn, SlideShare, Twilio, Simply Hired, O'Reilly Media, Intel, & Microsoft. Years ago he used to do real work like coding or marketing or running conferences, but these days he mostly does useless stuff like sending lots of email, blogging, and hanging out on Facebook and Twitter. Dave also likes to play ultimate frisbee when his knees don't hurt.",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Dave_McClure.png",
 		"Website": "http://500startups.com/ ",
-		"Twitter": "@davemcclure",
+		"Twitter": "davemcclure",
 		"Company": "500startups",
 		"Job_Title": "Founding Partner"
 	},
 	{
 		"Name": "Jameson Hsu",
 		"Bio": "Jameson Hsu is CEO and co-founder of Mochi Media. Prior to founding Mochi Media, Jameson co-founded the award winning interactive design firm WDDG where he led partnerships with major brands such as Kraft, HP, Burger King and many more. Jameson has been focused on gaming and interactive advertising for over 10 years, working closely with Flash developers, industry leading artists, advertising agencies, and Fortune 500 clients to develop innovative marketing and communication solutions.",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Jameson_Hsu.png",
 		"Website": "http://mochimedia.com/",
-		"Twitter": "@handler",
+		"Twitter": "JamesonH",
 		"Company": "Mochi Media",
 		"Job_Title": "Co-Founder"
 	},
 	{
 		"Name": "Henry Nguyen",
 		"Bio": "Henry currently serves as the Managing General Partner of IDG Ventures Vietnam, a $100 million fund focused on technology, media, and telecom investments in Vietnam.  As the founding partner of the Fund, Henry splits his time between Hanoi and Ho Chi Minh City, which affords him access to both government and business leaders. Prior to joining IDG Ventures, Henry held positions at Goldman Sachs and was a co-founder of VITC Telecommunications, Vine Quality Hospitality Group, S2S Medical Publishing, and Medschool.com. Henry is on the Board of the Vietnam Strategic Venture Network and previously was a Governor of the American Chamber of Commerce in Vietnam.  He also serves on the Board of iSphere Software, Punch Entertainment, DreamViet, Vega Technology Group, and VinaPay. Henry received a B.A. in Classics at Harvard University and his M.D. and M.B.A. from Northwestern University and the Kellogg School of Management",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Henry_Nguyen.png",
 		"Website": "http://www.idg-ventures.com",
 		"Twitter": "",
 		"Company": "IDG Ventures",
@@ -29,25 +29,25 @@
 	{
 		"Name": "Brent Hurley",
 		"Bio": "Prior to graduate school, Brent was a founding member of YouTube, and served in a variety of roles during his tenure, most notably as director of finance and operations. After the company was acquired by Google in October 2006, Brent led YouTubes syndication efforts with consumer electronics companies as a manager on the Strategic Partner Development team. He focused primarily on partnerships that enabled off-web interactions such as video viewing and video uploading on a wide range of networked devices, including cameras, IPconnected TVs and game consoles. Before YouTube, Brent worked as a head securities trader at Fisher Investments, a multi-billion dollar asset management firm. His startup roots trace back to early work at PayPal",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Brent_Hurley.png",
 		"Website": "http://www.brenthurley.com ",
-		"Twitter": "@BrentHurley",
-		"Company": "",
-		"Job_Title": "YouTube founding team"
+		"Twitter": "BrentHurley",
+		"Company": "Youtube",
+		"Job_Title": "Founding team"
 	},
 	{
 		"Name": "Jia Shen",
 		"Bio": " Jia Shen, co-founder of RockYou, has served as the President and CTO of RockYou. While still actively involved in RockYou's core business, Jia is currently the CEO of RockYou Asia based in Japan. Named one of Businessweek's top twenty-something entrepreneurs in 2008, Jia has helped grow the company to over 200 people over the last 5 years. Jia developed Rockyou.com to 1 million users in 3 months eventually serving over 100 million widgets a day before RockYou acquired funding. Jia helped raise over 120 Million dollars from the likes of Sequoia Capital, Softbank, and Doll Capital Management. He scaled the company's infrastructure to support some of the world's biggest social applications / games and the largest social ad network at 20 Billion monthly PV’s. Jia has always had a passion for cutting edge technologies, day-dreaming about the prevalence of internet and social since the day he first dialed into ARPANET; hacking and programming since before he was 10, Jia is a hardcore gamer. Prior to founding RockYou at 25, Jia experienced a wide variety of tech companies ranging from consumer shopping, email authentication and security, import export shopping automation, and VoiceXML / telephony. Jia was also part of the original team at Bell Laboratories which developed the VoiceXML format into the W3C standard. Jia has a double major in Computer Science and Computer Engineering from Johns Hopkins University",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Jia_Shen.png",
 		"Website": "http://www.rockyouasia.com",
-		"Twitter": "@mekatek",
+		"Twitter": "mekatek",
 		"Company": "RockYou Asia",
 		"Job_Title": "Founder and CEO"
 	},
 	{
 		"Name": "Tetsuya Mizuguchi",
 		"Bio": "After leading the development team AM9 (UGA) of Sega Enterprises and presiding over United Game Artists, he founded Q Entertainment. He produced his first game title 'Sega Rally Championship' in 1994 with Sega. Following several more racing game productions, he released the highly popular musical action 'Space Channel 5'. 'Rez', blending trance music and shooting game, was released in 2001. His other works include MTV America's TV spot. He has collected many awards worldwide, including an honorary mention in Prix Ars Electronica 2002 Interactive Art Division, and the Special Prize in the Media Arts Festival 2002 held by the Japanese government's Agency for Cultural Affairs. In 2003, he became a member of the Ministry of Economy, Trade and Industry Broadband Contents Breakthrough Technology Development Support Industry Board of Review.",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Tetsuya_Mizuguchi.png",
 		"Website": "http://www.qentertainment.com/eng/",
 		"Twitter": "",
 		"Company": "Q Entertainment",
@@ -56,45 +56,45 @@
 	{
 		"Name": "Nanda Ivens",
 		"Bio": "Nanda Ivens graduated from Boston University majoring in Political Science (1993 – 1997). Since then, Nanda had gone through many experiences in digital advertising, PR, and digital abroad and in Indonesia for almost 12 years. Nanda is presently working as Director of Digital for IndoPacific Edelman and Director of Edelman Digital which he had held for 2 years now.",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Nanda_Ivens.png",
 		"Website": "http://www.indopacedelman.com",
-		"Twitter": "",
+		"Twitter": "nanda_i",
 		"Company": "Indopasific Edelman",
 		"Job_Title": "Director"
 	},
 	{
 		"Name": "Antonny Liem",
 		"Bio": "Antonny Liem is the Chief Operating Officer at PT. MerahCipta Media – A holding group company for SemutApi Colony, Klix Digital, and MediaXasia. As a Chief Operating Officer of these 3 companies, Antonny starts to fulfill his dream : put Indonesia as one of the digital key player in global market. After finished his formal education, he went to Japan for International Exchange Program for a year, and return in 1999 for Final Thesis and graduation. Then, started from 1999, he experienced many positions in several places, such as Business Development Manager at Infrantier Indonesia in 2001, and President Director at Transmarco Data Systems in 2003. He is also one of the founder of Indonesian Young Executives Community with Billy Boen. With IYEC, Antonny Liem is always tries to develop young people to maximize their potential to become even better.",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Antonny_Liem.png",
 		"Website": "http://www.semutapi.com ",
-		"Twitter": "",
+		"Twitter": "antonnyliem",
 		"Company": "Merah Putih Incubator",
 		"Job_Title": "Chief Executive Officer"
 	},
 	{
 		"Name": "Andy Zain",
 		"Bio": "Andy Zain is regarded as one of the mobile industry pioneers in Indonesia. Over the past decade, he had involved in numerous 'industry first' initiatives, such as the first ringtone service, the first WAP portal, first mobile banking and m-commerce service in Indonesia. He had in depth business development experiences, managing products and services for some of the most admired global brands including Apple Computers, Nokia, Yahoo!, Disney, etc. Andy is a co-founder and President Director of Elasitas, a leading mobile content aggregator and platform provider for telcos across Asia Pacific and the Middle East. He also active in directing investment initiatives on several mobile startups in the region. Andy Zain founded MobileMonday Indonesia, part of the global networking forum for professionals in the mobile industry. He is also Vice Chairman of Indonesian Chamber of Commerce and Industry, overseeing contents and applications sub-committee.",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Andy_Zain.png",
 		"Website": "http://www.id-mobilemonday.com",
-		"Twitter": "@andyzain",
+		"Twitter": "andyzain",
 		"Company": "MobileMonday Indonesia",
 		"Job_Title": "Founder"
 	},
 	{
 		"Name": "Hiro Maeda",
 		"Bio": "Hiro Maeda is a cofounder and director of Open Network Lab, a mentorship-driven seed stage investment program based in Tokyo. Previously, Hiro was a founder of a web development firm and has been in charge of investment and business development of Netprice.com, a listed company in Tokyo.",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Hiro_Maeda.png",
 		"Website": "http://hiromaeda.com/",
-		"Twitter": "@djtokyo",
+		"Twitter": "djtokyo",
 		"Company": "Open Network Labs",
 		"Job_Title": "Founder"
 	},
 	{
 		"Name": "Nils Johnson",
 		"Bio": "Entrepreneur and angel investor/advisor from Y-Combinator. Nils is currently CEO and founder of makeup and cosmetics review community Beautylish who got funded by Ron Conway. Nils was CEO and founder of Aryty, a mobile payment transmission gateway in Philippines, India and Brazil before. Through Y-Combinator, Nils has invested into early stage startups, including KissMetrics, Twitter, Hipmunk, Blippy, WePay, RethinkDB, Mochi Media, etc.",
-		"Photo": "http://images/",
+		"Photo": "/images/photos/Nils_Johnson.png",
 		"Website": "http://ycombinator.com",
-		"Twitter": "",
+		"Twitter": "beautylish",
 		"Company": "Y combinator",
 		"Job_Title": "Partner"
 	}
