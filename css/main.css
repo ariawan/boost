@@ -180,6 +180,10 @@ a:hover, a:active {
 	border-bottom:1px dotted;
 }
 
+h3 a:hover {
+	border-bottom:none;
+}
+
 li {
 	list-style: none;
 	float: left;
@@ -274,6 +278,36 @@ div.sponsors {
 
 .sidehead {
 	text-align:right;
+}
+
+p.agenda {
+	width:48%;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+span.session-title {
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+span.session-content {
+	font-weight: 300;
+}
+
+.agenda-break {
+	color: #808080;
+}
+
+.agenda a {
+	font-weight: 500;
 }
 
 /*		Tablet Layout: 768px.

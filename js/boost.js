@@ -13,10 +13,8 @@ var app = $.sammy('#main', function() {
 	
 	this.get('#/agenda', function(context) {
 		this.partial('templates/agenda.template').then(function(){
-			$('#accordion1-left').accordion({ autoHeight: false });
-			$('#accordion1-right').accordion({ autoHeight: false });
-			$('#accordion2-left').accordion({ autoHeight: false });
-			$('#accordion2-right').accordion({ autoHeight: false });
+			$('#accordion1').accordion({ autoHeight: false, collapsible: true });
+			$('#accordion2').accordion({ autoHeight: false, collapsible: true });
 			$('li a').removeClass('active');
 			$('a.nav_agenda').addClass('active');
 		});	
