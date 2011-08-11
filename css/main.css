@@ -209,7 +209,7 @@ aside {
 
 nav li {
 	float: left;
-	width: 142px;
+	width: 19%;
 	text-align: center;
 	font-size: 12px;
 	font-weight: 300;
@@ -270,6 +270,7 @@ div.sponsors {
 
 #follow {
 	padding-top: 20px;
+	padding-bottom: 80px;
 }
 
 .obscure {

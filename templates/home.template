@@ -7,7 +7,7 @@
 	<form name="cta" action="#/save_email" method="get" style="text-align:center">
 		<input type="email" name="email" value maxlength="80" title="Email" placeholder="email*" >
 		<button type="submit">Register Now</button>
-		<p style="font-weight:100">*we'll contact you to complete registration</p>
+		<p style="font-weight:100">*we'll contact you when we open registration</p>
 	</form>
 </section>
 <section class="speakers-box">

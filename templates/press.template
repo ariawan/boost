@@ -1,3 +1,6 @@
+<section id="about" style="margin-top:30px;">
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:10px">MEDIA PARTNERS</h4>
+</section>
 <aside id="sponsors">
 	<div class="sponsors"></div>
 </aside>
