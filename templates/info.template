@@ -1,6 +1,6 @@
 <section id="about" style="margin-top:30px;">
 	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:10px">ABOUT</h4>
-	<p style="line-height:140%;font-weight:300;">Boost is a conference designed to help young entrepreneurs like you grow and scale your startup. We've invited the some of the best minds from Silicon Valley and Japan to Jakarta to help you. Ask a founding member of Youtube how they did it. Talk to Y Combinator about the benefits of being part of their class. Learn about venture financing from the VCs themselves. Understand the ups and downs of being an entrepreneur from the people who have been through the same experience you're going through. And join the business plan competition to win a networking vacation where you will meet mentors for life.
+	<p style="line-height:140%;font-weight:300;">What started as a simple idea to bring entrepreneurs from the US and Japan to Indonesia has now become something much larger. Boost is not just a conference to "meet-and-greet". It’s about creating a forum to allow young Indonesian entrepreneurs to interact with their more established peers in the US and Japan. Tech entrepreneurs from abroad will share their stories of success, failure, and perseverance. They will provide tips on product creation, monetization, and fund raising. All for the sole purpose of BOOSTing the prospects of young startups in Indonesia and South East Asia.
 	</p>
 	<p style="margin-top:30px;line-height:140%;font-weight:300;"><span style="font-weight:500;">Why BOOST?</span><br>
 	Unlike many other entrepreneurship conference, Boost is specifically designed to focus on growing existing startups in Indonesia. Boost is run by entrepreneurs for entrepreneurs. We know and understand the challenges of starting up a company in a region still lagging behind China and India, which makes it hard to find talent, funding, and mentorship. Which is why we're bringing Silicon Valley to Jakarta. 
@@ -16,7 +16,7 @@
 	</ul> 
 	</p>
 </section>
-<section id="venue" style="margin-top:30px;">
+<section id="venue" style="margin-top:50px;">
 	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:10px">VENUE</h4>
 	<div class="left" style="float:left;width:252px;font-weight:300;">
 		<p style="line-height:140%;"><a href="http://www.ichotelsgroup.com/intercontinental/en/gb/locations/jakarta">Intercontinental Hotel MIDPLAZA</a><br>
@@ -34,8 +34,33 @@ Go to Golden Bird limousine counter at terminal 2, gate D or gate E and F of Soe
 <a href="tel:+629999999">+62-999-9999</a></p>
 	</div>
 </section>
-<section id="team" style="margin-top:30px">
-	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:10px">TEAM</h4>
+<section id="team" style="margin-top:50px">
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:10px">THE TEAM</h4>
+	<ul style="font-weight:300;line-height:140%;">
+	<li class="team">
+	<a href="http://twitter.com/ryu_kawano">Ryu Kawano Suliawan</a> – The "get it done" guy. Ryu is currently a second-year student at the Harvard Business School. Ryu is half Indonesian, and half Japanese… he is fortunate enough to avoid an identity crisis! The initial concept of Boost was cooked up at a small Japanese restaurant in Boston by Ryu and Ari.
+	</li>
+ 	<li class="team">
+<a href="http://twitter.com/ariawan">Ari Awan</a> – "Tech guru". Ari is currently the CTO of FlutterScape, a startup in Japan. He builds stuff – websites, programs, communities. You name it!
+ </li>
+ <li class="team">
+<a>Aldi Haryopratomo</a> – The "Social Entrepreneur". Aldi is a serial entrepreneur and co-founder of KIVA and is currently the CEO of Ruma.
+ </li><li class="team">
+<a href="http://twitter.com/antonnyliem">Antonny Liem</a> – The "Incubator". Antonny is the CEO of Merah Putih, Indonesia’s first tech incubation firm.
+ </li><li class="team">
+<a>Adi Kusma</a> – The "Fiber Optic" Guy.  Adi is the CEO of Biznet Networks and is busy laying down fiber-optic cables throughout the country to help improve the IT infrastructure of Indonesia.
+ </li><li class="team">
+<a href="http://twitter.com/megainwidjaja">Megain Widjaja</a> – The "Conglomerate". If you don’t see Megain at Board meetings, well try your luck at Blowfish. Megain is an entrepreneur involved in everything from finance, advertising to tech incubation. He works and plays hard!
+ </li><li class="team">
+<a href="http://twitter.com/kvmin">Kevin Mintaraga</a> – "Digital Jedi". Kevin runs Indonesia’s leading digital marketing agency. He’s the one who came up with the logo for Boost!
+ </li><li class="team">
+<a href="http://twitter.com/andigudip">Andi Sadha</a> – The "Backer". Andi is CEO of Activate Media and is one the largest supporter of the advancement of media knowledge in Indonesia. He was also the organizing committee chairman of the Asia Pacific Media Forum and advising committee of SparXUp Awards.
+ </li><li class="team">
+<a href="http://twitter.com/andyzain">Andy Zain</a> – "Mobile Advocate". Andy is the founder of Mobile Monday and is an advocate of mobile-based startups. As he likes to say, "Forget the PC! The future is on mobile!"
+ </li><li class="team">
+<a href="http://twitter.com/nanda_i">Nanda Ivens</a> – The "Social Media Marketer". As CEO of Edelman Digital, Nanda knows how to create massive followings on social media and how to actually benefit from them.
+</li>
+	</ul>
 </section>
 <aside id="sponsors">
 	<div class="sponsors"></div>
