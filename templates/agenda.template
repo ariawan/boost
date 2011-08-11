@@ -1,107 +1,67 @@
 <section class="agenda" style="margin-top:30px;">
-	<h4 style="text-align:center;font-weight:300;margin-bottom:10px;">Day 1: Intercontinental Jakarta</h4>
-	<div style="width:300px;float:left;font-weight:500;text-align:center;">Investor Track</div>
-	<div style="width:300px;float:right;font-weight:500;text-align:center;">Entrepreneur Track</div>
-	<div id="accordion1-left" style="width:300px;float:left;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
-	    <h3><a href="#"><span style="font-weight:100">08:00-09:00</span><br>Conference Registration</a></h3>
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;font-weight:300;margin-bottom:10px;">DAY 1: Intercontinental Jakarta</h4>
+	<div id="accordion1-left" style="font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
+	    <h3><a href="#"><span style="font-weight:100">08:00 - 09:00</span> Conference Registration</a></h3>
 	    <div>Grand Ballroom</div>
-	    <h3><a href="#"><span style="font-weight:100">09:00-09:30</span><br>Opening Remark</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">09:00 - 09:30</span><br>Opening Remark</a></h3>
 	    <div>Grand Ballroom</div>
-	    <h3><a href="#"><span style="font-weight:100">09:30-10:30</span><br>Keynote: Startup metrics for pirates - AAARR</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">09:30 - 10:30</span><br>Keynote: Startup metrics for pirates - AAARR</a></h3>
 	    <div>
 	    	<p>Dave McClure believes that you need to be like a pirate to be a successful entrepreneur?? Listen to Dave as he discusses the basics startups need to know about product creation, collecting usage metrics, and making money</p>
-	    	<p>Grand Ballroom</p>
 	    </div>
-	    <h3><a href="#"><span style="font-weight:100">10:30-11:00</span><br>Break</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">10:30 - 11:00</span> Break</a></h3>
 	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">11:00-12:15</span><br>Incubators: How to run one</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">11:00 - 12:15</span><br>Panel 1A / Panel 1B</a></h3>
 	    <div>
-	    	<p>Incubator programs such as Y combinator has been hailed as the new platform for startups to succeed. Join us behind the scenes as the world's top incubator program leaders describe the different incubation models and describe its origins.  Graduates of incubation programs will also share their experience</p>
-	    	<p>Grand Ballroom - Room A</p>
-	    </div>
-	    <h3><a href="#"><span style="font-weight:100">12:15-13:30</span><br>Lunch Buffet</a></h3>
-	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">13:30-14:45</span><br>To Clone Or Not To Clone</a></h3>
-	    <div>
-	    	<p>Many entrepreneurs have tried to bring business models from one region of the world to another. Listen entrepreneurs and VCs who’ve done it, and learn about the opportunities and the pitfalls of business model cloning.</p>
-	    	<p>Grand Ballroom - Room B</p>
-	    </div>
-	    <h3><a href="#"><span style="font-weight:100">14:45-15:15</span><br>Break</a></h3>
-	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">15:15-16:30</span><br>Lifecycle of a startup</a></h3>
-	    <div>
-	    	<p>Are you doing a startup today? Are you looking to invest in one? Successful entrepreneurs will share their experience of founding, growing, and potentially exiting their companies. The entrepreneurs will discuss how different the challenges are in developed markets like the valley vs. emerging markets like Indonesia.</p>
-	    	<p>Grand Ballroom - Room A</p>
-	    </div>
-	    <h3><a href="#"><span style="font-weight:100">16:30-17:00</span><br>Break</a></h3>
-	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">17:00-18:15</span><br>Keynote: The potential for Social Media in Indonesia</a></h3>
-	    <div>
-	    	<p>Indonesian netizens are one of the largest consumers of social media in the world: Indonesia is the largest market for Foursquare, 2nd for Facebook, and 3rd for Twitter. Yet, Indonesia is not on the map for many of the social media firms in the world! How can one extract value out of Indonesia’s large user base? Join Nanda Ivens from Edelman Digital as he discusses the potential and issues facing the social media space in Indonesia.</p>
-	    	<p>Grand Ballroom - Room A</p>
-	    </div>
-	    <h3><a href="#"><span style="font-weight:100">18:15-21:00</span><br>Dinner Buffet</a></h3>
-	    <div>Sponsored by</div>
-	</div>
-	
-	<div id="accordion1-right" style="width:300px;float:right;font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
-	    <h3><a href="#"><span style="font-weight:100">08:00-09:00</span><br>Conference Registration</a></h3>
-	    <div>Grand Ballroom</div>
-	    <h3><a href="#"><span style="font-weight:100">09:00-09:30</span><br>Opening Remark</a></h3>
-	    <div>Grand Ballroom</div>
-	    <h3><a href="#"><span style="font-weight:100">09:30-10:30</span><br>Keynote : Startup metrics for pirates - AAARR</a></h3>
-	    <div>
-	    	<p>Dave McClure believes that you need to be like a pirate to be a successful entrepreneur?? Listen to Dave as he discusses the basics startups need to know about product creation, collecting usage metrics, and making money</p>
-	    	<p>Grand Ballroom</p>
-	    </div>
-	    <h3><a href="#"><span style="font-weight:100">10:30-11:00</span><br>Break</a></h3>
-	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">11:00-12:15</span><br>Financing and valuing startups</a></h3>
-	    <div>
+	    	<p>Financing and valuing startups</p>
 	    	<p>How much is my startup worth? How much should I raise from outside investors, and how much should I bootstrap it? Listen to entrepreneurs and venture capitalists as they discuss startup valuation and financing from different sides of the table.</p>
-	    	<p>Grand Ballroom - Room B</p>
+	    	<p>Incubators: How to run one</p>
+	    	<p>Incubator programs such as Y combinator has been hailed as the new platform for startups to succeed. Join us behind the scenes as the world's top incubator program leaders describe the different incubation models and describe its origins.  Graduates of incubation programs will also share their experience</p>
 	    </div>
-	    <h3><a href="#"><span style="font-weight:100">12:15-13:30</span><br>Lunch Buffet</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">12:15 - 13:30</span> Lunch Buffet</a></h3>
 	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">13:30-14:45</span><br>Should I make money now or later</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">13:30 - 14:45</span><br>Panel 2A / Panel 2B</a></h3>
 	    <div>
+	    	<p>Should I make money now or later</p>
 	    	<p>Once your start up is up and running, how should you think about making money? Should you make money while acquiring users? Should you acquire users before making money? Listen to what the VCs and entrepreneurs think</p>
-	    	<p>Grand Ballroom - Room A</p>
+	    	<p>To Clone Or Not To Clone</p>
+	    	<p>Many entrepreneurs have tried to bring business models from one region of the world to another. Listen entrepreneurs and VCs who’ve done it, and learn about the opportunities and the pitfalls of business model cloning.</p>
 	    </div>
-	    <h3><a href="#"><span style="font-weight:100">14:45-15:15</span><br>Break</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">14:45 - 15:15</span> Break</a></h3>
 	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">15:15-16:30</span><br>Managing product development</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">15:15 - 16:30</span><br>Panel 3A / Panel 3B</a></h3>
 	    <div>
+	    	<p>Managing product development</p>
 	    	<p>One of the first steps of founding a startup is building the product. Yet a startup has limited resources to do so. Join entrepreneurs and product managers to understand how they managed to design a top selling product with a shoestring budget.</p>
-	    	<p>Grand Ballroom - Room B</p>
+	    	<p>Lifecycle of a startup</p>
+	    	<p>Are you doing a startup today? Are you looking to invest in one? Successful entrepreneurs will share their experience of founding, growing, and potentially exiting their companies. The entrepreneurs will discuss how different the challenges are in developed markets like the valley vs. emerging markets like Indonesia.</p>
 	    </div>
-	    <h3><a href="#"><span style="font-weight:100">16:30-17:00</span><br>Break</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">16:30 - 17:00</span> Break</a></h3>
 	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">17:00-18:15</span><br>Keynote: The potential for Social Media in Indonesia</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">17:00 - 18:15</span><br>Keynote: The potential for Social Media in Indonesia</a></h3>
 	    <div>
 	    	<p>Indonesian netizens are one of the largest consumers of social media in the world: Indonesia is the largest market for Foursquare, 2nd for Facebook, and 3rd for Twitter. Yet, Indonesia is not on the map for many of the social media firms in the world! How can one extract value out of Indonesia’s large user base? Join Nanda Ivens from Edelman Digital as he discusses the potential and issues facing the social media space in Indonesia.</p>
-	    	<p>Grand Ballroom - Room A</p>
 	    </div>
-	    <h3><a href="#"><span style="font-weight:100">18:15-21:00</span><br>Dinner Buffet</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">18:15 - 21:00</span> Dinner Buffet</a></h3>
 	    <div>Sponsored by</div>
 	</div>
 </section>
 <section class="agenda" style="margin-top:30px;">
-	<h4 style="text-align:center;font-weight:300;margin-bottom:10px;">Day 2: Intercontinental Jakarta</h4>
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;font-weight:300;margin-bottom:10px;">DAY 2: Intercontinental Jakarta</h4>
 	<div id="accordion2-left" style="font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
-    	<h3><a href="#"><span style="font-weight:100">10:00-12:00</span><br>Launchpad</a></h3>
+    	<h3><a href="#"><span style="font-weight:100">10:00 - 12:00</span><br>Launchpad</a></h3>
 	    <div>Grand Ballroom</div>
-	    <h3><a href="#"><span style="font-weight:100">12:00-13:15</span><br>Lunch Buffet</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">12:00 - 13:15</span> Lunch Buffet</a></h3>
 	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">13:15-14:30</span><br>Keynote 3: TBD</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">13:15 - 14:30</span><br>Keynote 3: TBD</a></h3>
 	    <div>Grand Ballroom</div>
-	    <h3><a href="#"><span style="font-weight:100">14:30-15:00</span><br>Break</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">14:30 - 15:00</span> Break</a></h3>
 	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">15:00-16:15</span><br>Mentoring Sessions</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">15:00 - 16:15</span><br>Mentoring Sessions</a></h3>
 	    <div>TBD</div>
-	    <h3><a href="#"><span style="font-weight:100">16:15-16:45</span><br>Break</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">16:15 - 16:45</span> Break</a></h3>
 	    <div>Sponsored by</div>
-	    <h3><a href="#"><span style="font-weight:100">16:45-17:00</span><br>Closing Remark</a></h3>
+	    <h3><a href="#"><span style="font-weight:100">16:45 - 17:00</span><br>Closing Remark</a></h3>
 	    <div>Grand Ballroom</div>
 	</div>
 </section>
