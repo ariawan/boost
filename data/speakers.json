@@ -1,7 +1,7 @@
 [
 		{
 		"Name": "Dave McClure",
-		"Bio": "Dave McClure is a greedy venture capitalist & founding partner at 500 Startups, an internet startup seed fund and incubator program in Mountain View, CA. He likes to hang out with entrepreneurs, and occasionally help or invest in their startups if they are foolish enough to let him. Dave has been geeking out in Silicon Valley for over twenty years, and has worked with companies such as PayPal, Mint, Founders Fund, Facebook, LinkedIn, SlideShare, Twilio, Simply Hired, O'Reilly Media, Intel, & Microsoft. Years ago he used to do real work like coding or marketing or running conferences, but these days he mostly does useless stuff like sending lots of email, blogging, and hanging out on Facebook and Twitter. Dave also likes to play ultimate frisbee when his knees don't hurt.",
+		"Bio": "Dave McClure is founding partner at 500 Startups, an internet startup seed fund and incubator program in Mountain View, CA. Dave has been geeking out in Silicon Valley for over twenty years, and has worked with companies such as PayPal, Mint, Founders Fund, Facebook, LinkedIn, SlideShare, Twilio, Simply Hired, O'Reilly Media, Intel, & Microsoft.",
 		"Photo": "/images/photos/Dave_McClure.png",
 		"Website": "http://500startups.com/ ",
 		"Twitter": "davemcclure",
@@ -37,7 +37,7 @@
 	},
 	{
 		"Name": "Jia Shen",
-		"Bio": " Jia Shen, co-founder of RockYou, has served as the President and CTO of RockYou. While still actively involved in RockYou's core business, Jia is currently the CEO of RockYou Asia based in Japan. Named one of Businessweek's top twenty-something entrepreneurs in 2008, Jia has helped grow the company to over 200 people over the last 5 years. Jia developed Rockyou.com to 1 million users in 3 months eventually serving over 100 million widgets a day before RockYou acquired funding. Jia helped raise over 120 Million dollars from the likes of Sequoia Capital, Softbank, and Doll Capital Management. Jia has always had a passion for cutting edge technologies, day-dreaming about the prevalence of internet and social since the day he first dialed into ARPANET; hacking and programming since before he was 10, Jia is a hardcore gamer. Prior to founding RockYou at 25, Jia experienced a wide variety of tech companies ranging from consumer shopping, email authentication and security, import export shopping automation, and VoiceXML / telephony. Jia has a double major in Computer Science and Computer Engineering from Johns Hopkins University.",
+		"Bio": " Jia Shen, co-founder of RockYou, has served as the President and CTO of RockYou. While still actively involved in RockYou's core business, Jia is currently the CEO of RockYou Asia based in Japan. Named one of Businessweek's top twenty-something entrepreneurs in 2008, Jia has helped grow the company to over 200 people over the last 5 years. Jia developed Rockyou.com to 1 million users in 3 months eventually serving over 100 million widgets a day before RockYou acquired funding. Jia helped raise over 120 Million dollars from the likes of Sequoia Capital, Softbank, and Doll Capital Management. Jia has always had a passion for cutting edge technologies, day-dreaming about the prevalence of internet and social since the day he first dialed into ARPANET; hacking and programming since before he was 10, Jia is a hardcore gamer. Jia has a double major in Computer Science and Computer Engineering from Johns Hopkins University.",
 		"Photo": "/images/photos/Jia_Shen.png",
 		"Website": "http://www.rockyouasia.com",
 		"Twitter": "mekatek",
@@ -64,7 +64,7 @@
 	},
 	{
 		"Name": "Antonny Liem",
-		"Bio": "Antonny Liem is the CEO of Merah Putih Incubator. As CEO of Indonesia's first tech incubation company, Antonny strives to put Indonesia on the map as one of the key players in the global digital media industry. Prior to his current position, Antonny has held positions as the Business Development Manager at Infrantier Indonesia (2001), and as President Director of Transmarco Data Systems (2003). He is also one of the founder of Indonesian Young Executives Community with Billy Boen.",
+		"Bio": "Antonny Liem is the CEO of Merah Putih Incubator. As CEO of one of the first tech incubators in Indonesia, Antonny strives to put Indonesia on the map as one of the key players in the global digital media industry. Prior to his current position, Antonny has held positions as the Business Development Manager at Infrantier Indonesia (2001), and as President Director of Transmarco Data Systems (2003). He is also one of the founder of Indonesian Young Executives Community with Billy Boen.",
 		"Photo": "/images/photos/Antonny_Liem.png",
 		"Website": "http://www.semutapi.com ",
 		"Twitter": "antonnyliem",
