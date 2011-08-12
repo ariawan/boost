@@ -1,6 +1,6 @@
 <li style="margin-left:15px;margin-right:15px;margin-top:20px;">
 	<figure>
-		<img src="<%= Photo %>">
+		<a href="#/speakers?id=<%= id %>"><img src="<%= Photo %>"></a>
 		<figcaption style="font-weight:300;font-size:14px;"><%= Name %></figcaption>		
 	</figure>
 </li>

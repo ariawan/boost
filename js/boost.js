@@ -52,11 +52,19 @@ var app = $.sammy('#main', function() {
 	});
 	
 	this.get('#/speakers', function(context) {
-		this.partial('templates/speakers.template')
-		this.load('data/speakers.json').renderEach('templates/speakers-bio.template').appendTo('#speakers');
+		var speaker = this.params['id'];
+		this.partial('templates/speakers.template');
+		this.load('data/speakers.json').renderEach('templates/speakers-bio.template').appendTo('#speakers').then(
+			function() {				
+				if(undefined != speaker) {
+    				var new_position = $('li#'+speaker).offset();
+    				window.scrollTo(new_position.left,new_position.top);
+    				return false;
+				}
+			}
+		);
 		$('li a').removeClass('active');
-		$('a.nav_speakers').addClass('active');
-
+		$('a.nav_speakers').addClass('active');		
 	});
 	
 	this.get('#/save_email', function(context) {

@@ -6,7 +6,8 @@
 		"Website": "http://500startups.com/ ",
 		"Twitter": "davemcclure",
 		"Company": "500startups",
-		"Job_Title": "Founding Partner"
+		"Job_Title": "Founding Partner",
+		"id": "dave_mcclure"
 	},
 	{
 		"Name": "Jameson Hsu",
@@ -15,7 +16,8 @@
 		"Website": "http://mochimedia.com/",
 		"Twitter": "JamesonH",
 		"Company": "Mochi Media",
-		"Job_Title": "Co-Founder"
+		"Job_Title": "Co-Founder",
+		"id": "jameson_hsu"
 	},
 	{
 		"Name": "Henry Nguyen",
@@ -24,7 +26,8 @@
 		"Website": "http://www.idg-ventures.com",
 		"Twitter": "",
 		"Company": "IDG Ventures",
-		"Job_Title": "Managing General Partner"
+		"Job_Title": "Managing General Partner",
+		"id": "henry_nguyen"
 	},
 	{
 		"Name": "Brent Hurley",
@@ -33,7 +36,8 @@
 		"Website": "http://www.brenthurley.com ",
 		"Twitter": "BrentHurley",
 		"Company": "Youtube",
-		"Job_Title": "Founding team"
+		"Job_Title": "Founding team",
+		"id": "brent_hurley"
 	},
 	{
 		"Name": "Jia Shen",
@@ -42,7 +46,8 @@
 		"Website": "http://www.rockyouasia.com",
 		"Twitter": "mekatek",
 		"Company": "RockYou Asia",
-		"Job_Title": "Founder and CEO"
+		"Job_Title": "Founder and CEO",
+		"id": "jia_shen"
 	},
 	{
 		"Name": "Tetsuya Mizuguchi",
@@ -51,7 +56,8 @@
 		"Website": "http://www.qentertainment.com/eng/",
 		"Twitter": "",
 		"Company": "Q Entertainment",
-		"Job_Title": "Co-Founder and Chief Creative Officer"
+		"Job_Title": "Co-Founder and Chief Creative Officer",
+		"id": "tetsuya_mizuguchi"
 	},
 	{
 		"Name": "Nanda Ivens",
@@ -60,7 +66,8 @@
 		"Website": "http://www.indopacedelman.com",
 		"Twitter": "nanda_i",
 		"Company": "Indopasific Edelman",
-		"Job_Title": "Director"
+		"Job_Title": "Director",
+		"id" : "nanda_ivens"
 	},
 	{
 		"Name": "Antonny Liem",
@@ -69,7 +76,8 @@
 		"Website": "http://www.semutapi.com ",
 		"Twitter": "antonnyliem",
 		"Company": "Merah Putih Incubator",
-		"Job_Title": "Chief Executive Officer"
+		"Job_Title": "Chief Executive Officer",
+		"id": "antonny_liem"
 	},
 	{
 		"Name": "Andy Zain",
@@ -78,7 +86,8 @@
 		"Website": "http://www.id-mobilemonday.com",
 		"Twitter": "andyzain",
 		"Company": "MobileMonday Indonesia",
-		"Job_Title": "Founder"
+		"Job_Title": "Founder",
+		"id": "andy_zain"
 	},
 	{
 		"Name": "Hiro Maeda",
@@ -87,7 +96,8 @@
 		"Website": "http://hiromaeda.com/",
 		"Twitter": "djtokyo",
 		"Company": "Open Network Labs",
-		"Job_Title": "Founder"
+		"Job_Title": "Founder",
+		"id": "hiro_maeda"
 	},
 	{
 		"Name": "Nils Johnson",
@@ -96,7 +106,8 @@
 		"Website": "http://ycombinator.com",
 		"Twitter": "beautylish",
 		"Company": "Y combinator",
-		"Job_Title": "Partner"
+		"Job_Title": "Partner",
+		"id": "nils_johnson"
 	}
 
 ]
