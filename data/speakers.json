@@ -109,5 +109,14 @@
 		"Job_Title": "Partner",
 		"id": "nils_johnson"
 	}
-
+	{
+		"Name": "Steven Goh",
+		"Bio": "Steven is the CEO and co-founder of Mig33, the world's largest mobile-first community. Steven is well experienced in developing and delivering successful Internet services for consumers, having first founded Australia’s first online stock brokerage company Sanford Securities Limited, prior to co-founding mig33. Steven is recognized as an authority on contemporary IT issues, with extensive private and public board experience, has served as a keynote speaker and panelists conferences throughout U.S. Australia and Asia. Steven received both a Bachelor of Commerce and an MBA from the University of Western Australia.",
+		"Photo": "",
+		"Website": "http://www.mig33.com/",
+		"Twitter": "",
+		"Company": "Mig33",
+		"Job_Title": "CEO and Co-founder",
+		"id": "steven_goh"
+	}
 ]
