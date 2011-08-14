@@ -1,12 +1,4 @@
-<section id="why" style="margin-top:30px;">
-	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">WHY BOOST?</h4>
-	<p style="line-height:140%;font-weight:300;">
-	Unlike many other entrepreneurship conference, Boost is specifically designed to focus on growing existing startups in Indonesia. Boost is run by entrepreneurs for entrepreneurs. We know and understand the challenges of starting up a company in a region still lagging behind China and India, which makes it hard to find talent, funding, and mentorship. Which is why we're bringing Silicon Valley to Jakarta. 
-	</p>
-	<p style="margin-top:20px;line-height:140%;font-weight:300;">We've invited the some of the best minds from Silicon Valley and Japan to Jakarta to help you. Ask a founding member of Youtube how they did it. Talk to Y Combinator about the benefits of being part of their class. Learn about venture financing from the VCs themselves. Understand the ups and downs of being an entrepreneur from the people who have been through the same experience you're going through. And join the competition to win a networking vacation where you will meet mentors for life. </p> 
-	</p>
-</section>
-<section id="who" style="margin-top:40px;">
+<section id="who" style="margin-top:30px;">
 	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">WHO SHOULD ATTEND?</h4>
 	<ul style="font-weight:300;line-height:140%;">
 		<li style="list-style:disc;margin-left:22px">Budding entrepreneurs, of course!</li>
