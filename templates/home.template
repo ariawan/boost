@@ -1,7 +1,7 @@
 <section class="copytext" style="padding-bottom:20px;">
-	<h3 style="text-align:center;padding: 30px 0px 20px 0px;font-weight:500">Don't Do a Startup, You Will Fail!</h3>
-	<p style="text-align:center;font-size:20px;line-height:140%;font-weight:300;">Statiscally speaking only 1 out of 10 startups will survive, doing a startup is difficult but its also deeply rewarding.<br>Connect and get inspired by some of the top entrepreneurs and investors in the startup industry. 
-<br>Join us and we will help BOOST your chance of survival!</p>
+	<h3 style="text-align:center;padding: 30px 0px 20px 0px;font-weight:500">BOOST your Startup!</h3>
+	<p style="text-align:center;font-size:20px;line-height:140%;font-weight:300;">Statistically speaking only 1 out of 10 startups will survive. Doing a startup is difficult, but it’s also deeply rewarding.Connect and get inspired by some of the top entrepreneurs and investors in the startup industry.
+<br>Join us and we will help BOOST your chance of success!</p>
 </section>
 <section class="call-to-action" style="padding-bottom:20px;">
 	<form name="cta" action="#/save_email" method="get" style="text-align:center">
