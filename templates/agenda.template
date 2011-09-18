@@ -1,5 +1,5 @@
 <section class="agenda" style="margin-top:30px;">
-	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;font-weight:300;margin-bottom:10px;">DAY 1: 19 January 2012</h4>
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;font-weight:300;margin-bottom:10px;">DAY 1: 17 January 2012</h4>
 	<div id="accordion1" style="font-size:14px;font-family:museo-sans,sans-serif;">
 	    <h3><a href="#"><span style="font-weight:100">08:00 - 09:00</span><br>Registration</a></h3>
 	    <div>Grand Ballroom</div>
@@ -47,7 +47,7 @@
 	</div>
 </section>
 <section class="agenda" style="margin-top:40px;">
-	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;font-weight:300;margin-bottom:10px;">DAY 2: 20 January 2012</h4>
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;font-weight:300;margin-bottom:10px;">DAY 2: 18 January 2012</h4>
 	<div id="accordion2" style="font-weight:300;font-size:14px;font-family:museo-sans,sans-serif;">
     	<h3><a href="#"><span style="font-weight:100">10:00 - 12:00</span><br>Launchpad</a></h3>
 	    <div>Grand Ballroom</div>
