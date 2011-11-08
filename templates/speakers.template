@@ -1,6 +1,6 @@
 <section style="margin-top:40px;">
-	<ul id="speakers"></ul>
-	<p style="margin-top:30px;font-weight:300">*agenda & speakers may change without notice</p>
+	<ul id="speakers-list"></ul>
+	<p style="">*agenda & speakers may change without notice</p>
 </section>
 <aside id="sponsors">
 	<div class="sponsors"></div>

@@ -7,10 +7,10 @@
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
-	<link href="/css/main.css?3" rel="stylesheet" rel="stylesheet" media="all" type="text/css" />
+	<link href="/css/main.css" rel="stylesheet" media="all" type="text/css" />
 	<link href="/css/jquery-ui.css" rel="stylesheet" type="text/css"/>
 	<script type="text/javascript" src="http://use.typekit.com/mau4dfs.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script type="text/javascript">//try{Typekit.load();}catch(e){}</script>
 	<!-- <meta name="viewport" content="width=device-width, initial-scale=1"/> -->
 	<!-- Adding "maximum-scale=1" fixes the Mobile Safari auto-zoom bug: http://filamentgroup.com/examples/iosScaleBug/ -->
 	<meta property="og:title" content="boost conference" />
@@ -19,7 +19,6 @@
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-24995020-1']);
 	  _gaq.push(['_trackPageview']);
-	
 	  (function() {
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -27,54 +26,41 @@
 	  })();	
 	</script>
 </head>
-
 <body lang="en">
-	<header>
-		<aside style="margin-top:20px">
-			<h4 class="sidehead">Intercontinental Jakarta</h4>
-			<h4 class="sidehead">17 - 18 January 2012</h4>			
-		</aside>
-		<section id="logo">
-			<a href="#/"><img src="/images/logo.png" alt="logo"></a>
-			<h4 style="font-size:18px;font-weight:300;">From The Valley To Indonesia</h4>
-		</section>
-	</header>
-	<hr style="padding-top:20px;">
-	<nav> 
-		<ul>
-			<li class="nav_home"><a href="#/" ><img style="vertical-align:text-bottom" src="/images/home.png"></a></li> 
-			<li class="nav_registration"><a class="nav_registration" href="#/registration">REGISTRATION</a></li>
-			<!--<li class="nav_participants"><a class="nav_participants" href="#/participants">PARTICIPANTS</a></li>-->
-			<li class="nav_agenda"><a class="nav_agenda" href="#/agenda">AGENDA</a></li> 
-			<li class="nav_speakers"><a class="nav_speakers" href="#/speakers">SPEAKERS</a></li>			
-			<li class="nav_info"><a class="nav_info" href="#/info">INFO</a></li>
-			<li class="nav_press"><a class="nav_press" href="#/press">PRESS</a></li>
-		</ul> 
-	</nav>
-	<hr>	
-	<article id="main">	
-	</article>	
-	<hr>
-	<footer style="margin-top:20px;">
-		<aside id="share">
-			<ul>
-				<li id="twitter">
-					<a class="button" href="http://twitter.com/share?url=http://boost-asia.com&via=boost_asia&text=BOOST%20Conference%20Jakarta">Tweet on Twitter</a>
-				</li>
-				<li id="fb">
-					<a class="button" href="http://www.facebook.com/sharer.php?u=http://boost-asia.com&t=BOOST%20Conference">Share on Facebook</a>
-				</li>
-			</ul>
-		</aside>
-		<section id="follow">
-			<p style="font-weight:300">for updates, please follow <a href="http://twitter.com/boost_asia">@boost_asia</a> or join us on <a href="http://www.facebook.com/pages/Boost/212371975479386">facebook</a></p>
-		</section>
-	</footer>
-	<script src="/js/jquery/jquery-1.6.2.min.js" type="text/javascript" charset="utf-8"></script>
-	<script src="/js/jquery/plugins/jquery-ui-1.8.14.custom.min.js" type="text/javascript" charset="utf-8"></script>
-	<script src="/js/sammy/sammy-0.6.3.min.js" type="text/javascript" charset="utf-8"></script>
-	<script src="/js/sammy/plugins/sammy.template-0.6.3.min.js" type="text/javascript" charset="utf-8"></script>
-	<script src="/js/boost.js" type="text/javascript" charset="utf-8"></script>
+  <header>
+    <section id="logo"><a href="#/"><img src="images/boost_logo.png" width="960" height="115" alt=""></a></section>
+    <section id="register"><a href="#/registration"><img src="images/register.png" width="285" height="125" alt=""></a></section>
+    <section id="time_location"><img src="images/time_location.png" width="675" height="85" alt=""></section>
+    <nav>
+      <ul>
+        <li><a href="#/"><img src="images/nav_home.png" width="80" height="40" alt=""/></a></li>
+        <li><a href="#/about"><img src="images/nav_about.png" width="85" height="40" alt=""/></a></li>
+        <li><a href="#/agenda"><img src="images/nav_agenda.png" width="110" height="40" alt=""/></a></li>
+        <li><a href="#/speakers"><img src="images/nav_speakers.png" width="130" height="40" alt=""/></a></li>
+        <li><a href="#/sponsors"><img src="images/nav_sponsors.png" width="130" height="40" alt=""/></a></li>
+        <li><a href="#/press"><img src="images/nav_press.png" width="140" height="40" alt=""/></a></li>
+      </ul> 
+    </nav>
+    <section class="speakers-box">
+      <ul id="speakers"></ul>
+      <div id="speakers-nav">
+      <div id="speakers-prev" class="left-arrow" style="position:absolute; top:340px; margin-left:-30px; cursor:pointer;"></div>
+      <div id="speakers-next" class="right-arrow" style="position:absolute; top:340px; margin-left:970px; cursor:pointer;"></div>
+      </div>
+    </section>
+  </header>
+  <article id="main">	
+  </article>	
+  <footer>
+  </footer>
+  <script src="/js/jquery/jquery-1.6.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/js/jquery/plugins/jquery-ui-1.8.14.custom.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/js/jquery/plugins/jquery.jcarousel.min.js" type="text/javascript"></script>
+  <script src="http://cdn.jquerytools.org/1.2.6/all/jquery.tools.min.js"></script>
+  <script src="/js/sammy/sammy-0.6.3.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/js/sammy/plugins/sammy.template-0.6.3.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/js/boost.dev.js?1" type="text/javascript" charset="utf-8"></script>
 </body>
-	
 </html>
+
+

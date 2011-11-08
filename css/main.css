@@ -31,6 +31,7 @@ a img {border: 0;}
 /*	Typography presets
 	------------------	*/
 
+/*
 .gigantic {
 	font-size: 110px;
 	line-height: 120px;
@@ -72,7 +73,7 @@ body {
 	line-height: 18px;
 	font-weight: 300;
 }
-
+*/
 
 
 /* Selection colours (easy to forget) */
@@ -143,32 +144,25 @@ px      68    160    252    344    436    528    620    712    804    896    */
 
 body {
 	position: relative;
-	padding: 72px 0px 84px;
-	border-top: solid 5px #F15A29;
 	background: white;
 	color: #808080;
 	-webkit-text-size-adjust: 100%; /* Stops Mobile Safari from auto-adjusting font-sizes */
 }
 
 header, footer, article, nav {
-    padding-left: 48px;
-    padding-right: 48px;
-    margin: 0 auto;
-    width: 896px;
-    position: relative;
+
 }
 
 header {
-	margin-top: 20px;
-	margin-bottom: 20px;
+
 }
 
 article {
-	padding-top: 20px;
+
 }
 
 footer {
-	padding-top: 20px;
+
 }
 
 a {
@@ -208,11 +202,6 @@ aside {
 }
 
 nav li {
-	float: left;
-	width: 19%;
-	text-align: center;
-	font-size: 12px;
-	font-weight: 300;
 }
 
 .nav_home {
@@ -220,57 +209,41 @@ nav li {
 }
 
 nav a {
-	display: block;
-	padding: 11px 15px;
-	color: #FFFFFF;
-	background: #F15A29;
+  display: block;
+  color: #FFFFFF;
+  text-decoration:none;
 }
 
 nav a:hover, nav a:active {
 	border-bottom: none;
 	display: block;
-	padding: 11px 15px;
 	color: #FFFFFF;
 	background: #A8A8A8;
 }
 
 nav a.active {
 	display: block;
-	padding: 11px 15px;
 	color: #FFFFFF;
 	background: #A8A8A8;
 }
 
 section {
 	float: left;
-	width: 620px;
 }
 
 footer p {
-	font-size: 26px;
-	line-height: 36px;
-	font-weight: 300;
 }
 
 div.sponsors {
-	border:1px solid #A8A8A8;
-	height: 800px;	
 }
 
 
 #share a {
 	text-align: center;
 	display:  block;
-	padding: 11px 15px;
-	height: 25px;
-	width: 200px;
-	margin-bottom:10px;
-	margin-left:10px;
 }
 
 #follow {
-	padding-top: 20px;
-	padding-bottom: 80px;
 }
 
 .obscure {
@@ -420,11 +393,63 @@ cols    1     2      3      4      5
 px      68    160    252    344    436    
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-	
 	body {
 		width: 436px;
 		padding: 36px 22px 48px;
-	}
-	
-	
+	}	
+}
+*/
+body {margin: 20px 0 0; padding: 0; background: url(../images/bg.jpg) repeat-x #bebebe;width:100%; height: auto; color:#17375e;
+}
+section {
+  font-family:arial;
+}
+article { width:960px; height:100%; margin:0 auto;
+  font-family:arial;
+  text-align:left;
+  color: #17375e;
+  min-height: 450px;
+}
+header { width:960px; margin:0 auto; height:500px; }
+#logo { width:960px; height:115px; }
+#time_location { float:left; width:675px; height:85px; }
+#register { float:right;width:285px;height:125px; }
+nav { width:675px; }
+nav ul li { float:left; margin:0; padding:0; list-style:none; }
+aside#sponsors { position:relative; float:right; width: 285px; margin:0 10px 0 20px; height:400px; right:0; }
+figure img { border:#fff solid 5px; background:#fff; }
+figcaption {font-weight:300;font-size:12px;}
+.copytext { width:640px; margin:10px 0 20px; }
+.speakers-box { margin: 25px 0 0; overflow:hidden; height:210px; color:#fff; width:960px; }
+#speakers { text-align:left; overflow:hidden; height: 150px; margin-top:20px; width:10000em; }
+#speakers li { height: 150px; width: 130px; margin-right: 8px; }
+#speakers-nav a {color:#fff;}
+
+.jcarousel-container { height: 170px; margin-top:20px; }
+.jcarousel-direction-rtl { direction: ltr; }
+.jcarousel-container-horizontal { width: 960px; }
+.jcarousel-container-vertical { }
+.jcarousel-clip { overflow: hidden; }
+.jcarousel-clip-horizontal { height:150px; }
+.jcarousel-clip-vertical { width:130px; }
+.jcarousel-item { width:150px; height:130px;}
+.jcarousel-item-horizontal { }
+.jcarousel-direction-rtl .jcarousel-item-horizontal { margin-right: 8px; }
+.jcarousel-item-vertical { }
+.jcarousel-item-placeholder { background: #fff; }
+
+.left-arrow {
+        border-color: transparent white;
+        border-style: solid;
+        border-width: 20px 20px 20px 0px;
+        height: 0px;
+        width: 0px;
+}
+
+.right-arrow {
+        border-color: transparent white;
+        border-style: solid;
+        border-width: 20px 0px 20px 20px;
+        height: 0px;
+        width: 0px;
 }
