@@ -14,8 +14,16 @@
 	<form name="cta" action="#/save_email" method="get" style="text-align:center">
 		<input type="email" name="email" value maxlength="80" title="Email" placeholder="email*" >
 		<button type="submit">Register Now</button>
-		<p style="font-weight:100">*we'll contact you when registration is officially open</p>
+		<p style="font-weight:100">*we'll contact you to complete registration</p>
 	</form>
+</section>
+<section id="who" style="margin-top:30px;margin-bottom:150px;">
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">THE BOOST 50</h4>
+	<ul style="font-weight:300;line-height:140%;">
+		<li style="list-style:disc;margin-left:22px">Do you have a Startup? If so you and one your team members can apply to become a BOOST 50 entrepreneur.</li>
+		<li style="list-style:disc;margin-left:22px">BOOST 50 entrepreneurs receive preferential ticket pricing and also can take part in small group mentoring sessions with speakers and other established entrepreneurs from the US and Japan.</li>
+		<li style="list-style:disc;margin-left:22px">Please fill out this form <a href="https://docs.google.com/document/d/1KZfKgPmoyWMoj73ERAqoMwPt3Ik-f-v9wd0Pk9tG9gs/edit">(click to view)</a> and submit by <span style="font-weight:400">December 19th, 2011 at 12:00pm</span> to <span class="obscure">moc.liamg@aisenodni.tsoob</span></li>
+	</ul> 
 </section>
 <aside id="sponsors">
 	<div class="sponsors"></div>
