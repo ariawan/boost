@@ -118,5 +118,25 @@
 		"Company": "Mig33",
 		"Job_Title": "CEO and Co-founder",
 		"id": "steven_goh"
+	},
+	{
+		"Name": "Ian McFarland",
+		"Bio": "Ian was working on worldwide distributed hypertext systems with Ted Nelson a couple years before Tim Berners-Lee proposed the World Wide Web, HTTP, and HTML. He was on the launch team at HotWired, the first company to bring a revenue model to the Internet. He was employee #4 at Friendster, the company that kicked off this whole Social Media thing. And for the seven years Ian was at Pivotal Labs, he's been sharing insights into agile development with companies large and small, and as VP of Technology helped to grow Pivotal Labs from a small company to a world renowned team of over 100 developers. Since Joining Digital Garage at its CTO in August, he's taken these ideas back to Japan, the country where both Lean and Ruby come from. He is more likely to be found in San Francisco than any other city, though your odds are probably about 50/50.",
+		"Photo": "/images/photos/Ian_Mcfarland.png",
+		"Website": "http://garage.co.jp",
+		"Twitter": "imf",
+		"Company": "Digital Garage",
+		"Job_Title": "Group CTO",
+		"id": "ian_mcfarland"
+	},
+	{
+		"Name": "Akimitsu Sano",
+		"Bio": "Aki Sano is the Founder and CEO of Cookpad, a Tokyo Stock Exchange-listed company and the world's largest recipe community with over 10 million registered users and 1 million user-contributed recipes. He believes that technology (internet) can drive people to enjoy cooking and is relentless in pursuing new technology platform.",
+		"Photo": "/images/photos/Aki_Sano.png",
+		"Website": "http://cookpad.com",
+		"Twitter": "",
+		"Company": "Cookpad",
+		"Job_Title": "Founder & CEO",
+		"id": "aki_sano"
 	}
 ]
