@@ -101,12 +101,12 @@
 	},
 	{
 		"Name": "Nils Johnson",
-		"Bio": "Entrepreneur and angel investor/advisor from Y-Combinator. Nils is currently CEO and founder of makeup and cosmetics review community Beautylish who got funded by Ron Conway. Nils was CEO and founder of Aryty, a mobile payment transmission gateway in Philippines, India and Brazil before. Through Y-Combinator, Nils has invested into early stage startups, including KissMetrics, Twitter, Hipmunk, Blippy, WePay, RethinkDB, Mochi Media, etc.",
+		"Bio": "Nils is the CEO and co-founder of Beautylish, a social commerce site based in San Francisco. Prior to founding Beautylish Nils founded Aryty, an electronic recharge network focused on cross border transactions. He is an active angel investor, advisor and mentor for Open Network Labs, a seed accelerator in Japan. Some of his angel investments include Mochi Media, Airtime, Hipmunk, Hearsay, GroupMe, WePay, Everlane, ReadyForZero and BlipMe.",
 		"Photo": "/images/photos/Nils_Johnson.png",
-		"Website": "http://ycombinator.com",
+		"Website": "http://beautylish.com",
 		"Twitter": "beautylish",
-		"Company": "Y combinator",
-		"Job_Title": "Partner",
+		"Company": "Beautylysh",
+		"Job_Title": "CEO and Co-founder",
 		"id": "nils_johnson"
 	},
 	{
