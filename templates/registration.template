@@ -1,5 +1,5 @@
 <section id="who" style="margin-top:30px;">
-	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">ENTREPRENEURS?</h4>
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">ENTREPRENEURS</h4>
 	<ul style="font-weight:300;line-height:140%;">
 		<li style="list-style:disc;margin-left:22px">Do you have a Startup? If so you and one of your team members can apply to become a BOOST 50 entrepreneur.</li>
 		<li style="list-style:disc;margin-left:22px">BOOST 50 entrepreneurs receive preferential ticket pricing and also can take part in small group mentoring sessions with speakers and other established entrepreneurs from the US and Japan.</li>
@@ -8,7 +8,7 @@
 	</ul> 
 </section>
 <section id="who" style="margin-top:30px;margin-bottom:170px">
-	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">NON-ENTREPRENEURS?</h4>
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">GENERAL ADMISSION</h4>
 	<ul style="font-weight:300;line-height:140%;">
 		<li style="list-style:disc;margin-left:22px">Ticket Price: Rp. 5 Million (for 1 person)</li>
 		<li style="list-style:disc;margin-left:22px">Investors looking to invest in Southeast Asia. Boost is your chance to meet the aspiring stars that will make you your next billion. </li>
@@ -16,7 +16,7 @@
 		<li style="list-style:disc;margin-left:22px">University officials who want to create an in-house startup incubation environment, much like Stanford or MIT</li>
 		<li style="list-style:disc;margin-left:22px">Employees of big companies looking to create an entrepreneurship environment within smaller corporate division.</li>
 		<li style="list-style:disc;margin-left:22px">Anyone who wants to be surrounded by highly creative and passionate people!</li>
-		<li style="list-style:disc;margin-left:22px"> To register, please give us your email, we'll contact your to complete registration</li>
+		<li style="list-style:disc;margin-left:22px">To register, please give us your email, we'll contact your to complete registration</li>
 		<li style="list-style:none;margin-left:22px;margin-top:10px">
 		<form name="cta" action="#/save_email" method="get">
 			<input type="email" name="email" value maxlength="80" title="Email" placeholder="email*" >
