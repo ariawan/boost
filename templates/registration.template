@@ -7,7 +7,7 @@
 		<li style="list-style:disc;margin-left:22px">Please fill out this form <a href="https://docs.google.com/document/d/1KZfKgPmoyWMoj73ERAqoMwPt3Ik-f-v9wd0Pk9tG9gs/edit">(click to view)</a> and submit by <span style="font-weight:400">December 19th, 2011 at 12:00pm</span> to <span>registration@boost-asia.com</span></li>
 	</ul> 
 </section>
-<section id="who" style="margin-top:30px;margin-bottom:170px">
+<section id="who" style="margin-top:30px;">
 	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">GENERAL ADMISSION</h4>
 	<ul style="font-weight:300;line-height:140%;">
 		<li style="list-style:disc;margin-left:22px">Ticket Price: Rp. 5 Million (for 1 person)</li>
@@ -17,14 +17,12 @@
 		<li style="list-style:disc;margin-left:22px">Employees of big companies looking to create an entrepreneurship environment within smaller corporate division.</li>
 		<li style="list-style:disc;margin-left:22px">Anyone who wants to be surrounded by highly creative and passionate people!</li>
 		<li style="list-style:disc;margin-left:22px">To register, please give us your email, we'll contact you to complete registration</li>
-		<li style="list-style:none;margin-left:22px;margin-top:10px">
-		<form name="cta" action="#/save_email" method="get">
-			<input type="email" name="email" value maxlength="80" title="Email" placeholder="email*" >
-			<button type="submit">Submit</button>
-		</form>
-		<li>
 	</ul>
+</section>
 
+<section id="ticket" style="margin-top:30px;margin-bottom:170px">
+	<script type="text/javascript" src="https://www.amiando.com/resources/js/amiandoExport.js"></script><iframe src="https://www.amiando.com/boost.html?viewType=iframe&panelId=1212573&useDefaults=false&resizeIFrame=true" frameborder="0" width="650px" height="450px" name="_amiandoIFrame1212573zPrr7jxn" id="_amiandoIFrame1212573zPrr7jxn">
+	<p>This page requires frame support. Please use a frame compatible browser to see the amiando ticket sales widget.</p>
 </section>
 
 
