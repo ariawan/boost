@@ -1,14 +1,4 @@
 [
-		{
-		"Name": "Dave McClure",
-		"Bio": "Dave McClure is founding partner at 500 Startups, an internet startup seed fund and incubator program in Mountain View, CA. Dave has been geeking out in Silicon Valley for over twenty years, and has worked with companies such as PayPal, Mint, Founders Fund, Facebook, LinkedIn, SlideShare, Twilio, Simply Hired, O'Reilly Media, Intel, & Microsoft.",
-		"Photo": "/images/photos/Dave_McClure.png",
-		"Website": "http://500startups.com/ ",
-		"Twitter": "davemcclure",
-		"Company": "500startups",
-		"Job_Title": "Founding Partner",
-		"id": "dave_mcclure"
-	},
 	{
 		"Name": "Jameson Hsu",
 		"Bio": "Jameson Hsu is CEO and co-founder of Mochi Media. Prior to founding Mochi Media, Jameson co-founded the award winning interactive design firm WDDG where he led partnerships with major brands such as Kraft, HP, Burger King and many more. Jameson has been focused on gaming and interactive advertising for over 10 years, working closely with Flash developers, industry leading artists, advertising agencies, and Fortune 500 clients to develop innovative marketing and communication solutions.",
@@ -98,26 +88,6 @@
 		"Company": "Open Network Labs",
 		"Job_Title": "Founder",
 		"id": "hiro_maeda"
-	},
-	{
-		"Name": "Nils Johnson",
-		"Bio": "Nils is the CEO and co-founder of Beautylish, a social commerce site based in San Francisco. Prior to founding Beautylish Nils founded Aryty, an electronic recharge network focused on cross border transactions. He is an active angel investor, advisor and mentor for Open Network Labs, a seed accelerator in Japan. Some of his angel investments include Mochi Media, Airtime, Hipmunk, Hearsay, GroupMe, WePay, Everlane, ReadyForZero and BlipMe.",
-		"Photo": "/images/photos/Nils_Johnson.png",
-		"Website": "http://beautylish.com",
-		"Twitter": "beautylish",
-		"Company": "Beautylish",
-		"Job_Title": "CEO and Co-founder",
-		"id": "nils_johnson"
-	},
-	{
-		"Name": "Steven Goh",
-		"Bio": "Steven is the CEO and co-founder of Mig33, the world's largest mobile-first community. Steven is well experienced in developing and delivering successful Internet services for consumers, having first founded Australia’s first online stock brokerage company Sanford Securities Limited, prior to co-founding mig33. Steven is recognized as an authority on contemporary IT issues, with extensive private and public board experience, has served as a keynote speaker and panelists conferences throughout U.S. Australia and Asia. Steven received both a Bachelor of Commerce and an MBA from the University of Western Australia.",
-		"Photo": "/images/photos/Steven_Goh.png",
-		"Website": "http://www.mig33.com/",
-		"Twitter": "",
-		"Company": "Mig33",
-		"Job_Title": "CEO and Co-founder",
-		"id": "steven_goh"
 	},
 	{
 		"Name": "Ian McFarland",
