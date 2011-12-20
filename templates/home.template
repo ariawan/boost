@@ -3,7 +3,7 @@
 	<p style="text-align:center;font-size:20px;line-height:140%;font-weight:300;">Building a startup is difficult, and your chances of success are slim. However, it's also deeply rewarding.<br>How can you grow your startup into a scalable business? Connect, learn and be inspired by top entrepreneurs and investors in the world.</p>
 </section>
 <section class="call-to-action" style="padding-bottom:20px;">
-	<h3 style="text-align:center;padding: 30px 0px 20px 0px;font-weight:500;color:#F15A29"><a href="#/registration">REGISTER TODAY</a></h3>
+	<h3 style="text-align:center;padding: 30px 0px 20px 0px;font-weight:500;color:#F15A29"><a href="#/registration" class="button orange">REGISTER TODAY</a></h3>
 </section>
 <section class="speakers-box">
 	<ul id="speakers">

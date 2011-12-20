@@ -101,35 +101,50 @@ input {
 }
 
 button, a.button{
-	color: #6e6e6e;
-	background: #f3f3f3;
-    background: -webkit-gradient(linear,0% 40%,0% 70%,from(#F5F5F5),to(#F1F1F1));
-    background: -moz-linear-gradient(linear,0% 40%,0% 70%,from(#F5F5F5),to(#F1F1F1));
-	border: solid 1px #dcdcdc;
-	padding: 10px 20px 10px 20px;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	border-radius: 3px;
-	-webkit-transition: border-color .218s;
-    -moz-transition: border .218s;
-    -o-transition: border-color .218s;
-    transition: border-color .218s;
-	font-size: 14px;
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: 14px/100%;
+	padding: .5em 2em .55em;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-border-radius: .5em; 
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
 }
 
 button:hover, a.button:hover{
-	color: #333;
-    border-color: #999;
-    -moz-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
-    -webkit-box-shadow:0 2px 5px rgba(0, 0, 0, 0.2);
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
-    border-bottom: 1px solid #999;
+	text-decoration: none;
 }
 
 button:active, a.button:active {
-	color: #000;
-    border-color: #444;
-    border-bottom: 1px solid #444;
+	position: relative;
+	top: 1px;
+}
+
+.orange {
+	color: #fef4e9;
+	border: solid 1px #da7c0c;
+	background: #F15A29;
+	background: -webkit-gradient(linear, left top, left bottom, from(#F15A29), to(#F15A29));
+	background: -moz-linear-gradient(top,  #F15A29,  #F15A29);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#F15A29', endColorstr='#F15A29');
+}
+.orange:hover {
+	background: #f47c20;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f88e11), to(#F15A29));
+	background: -moz-linear-gradient(top,  #f88e11,  #F15A29);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f88e11', endColorstr='#F15A29');
+}
+.orange:active {
+	color: #fcd3a5;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f47a20), to(#F15A29));
+	background: -moz-linear-gradient(top,  #f47a20,  #F15A29);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
 }
 
 
