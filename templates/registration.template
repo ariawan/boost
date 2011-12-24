@@ -43,9 +43,9 @@
 	-->
 
 	<p style="margin-top:140px;font-weight:300">International participants:
-	<script type="text/javascript" src="https://www.amiando.com/resources/js/ticketshop-popup.js"></script><a href="#" onclick="return amiandoTicketShopPopup('https://www.amiando.com/boost?panelId=1212573&useDefaults=false', 650, 450);">please click here</a>
+	<script type="text/javascript" src="https://www.amiando.com/resources/js/ticketshop-popup.js"></script><a href="#" onclick="return amiandoTicketShopPopup('https://www.amiando.com/boost?panelId=1212573&useDefaults=false', 650, 450);">please click here (pop-up)</a>
 	to buy tickets online in US$ using your credit card. *Please use the promotion code "earlybird" for early bird discount<br/>
-	<a href="#" onclick="return amiandoTicketShopPopup('https://www.amiando.com/boost?panelId=1212573&useDefaults=false', 650, 450);" class="button orange">Buy Tickets For International Participants</a>
+	<a href="#" onclick="return amiandoTicketShopPopup('https://www.amiando.com/boost?panelId=1212573&useDefaults=false', 650, 450);" class="button orange">Buy Tickets For International Participants (pop-up)</a>
 	</p>
 	
 	<p style="margin-top:30px;font-weight:300">Indonesian participants: please fill out this <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDhfdXJFMGNsaDdrTlJZRWVudmx4OGc6MQ" target="_blank">registration form</a> and we'll get back to you with an invoice and instruction for payment in Indonesian Rupiah (IDR) using bank transfer, debit and/or credit card.<br/>
