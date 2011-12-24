@@ -5,7 +5,9 @@ var app = $.sammy('#main', function() {
 	this.use('Template');
 	
 	this.get('#/', function(context) {
-    	this.partial('templates/home.template');
+    	this.partial('templates/home.template').then(function() {
+    	 	this.load('templates/sponsorlogos.template').appendTo('div.sponsors')
+    	});
     	this.load('data/speakers.json').renderEach('templates/home-speakers.template').appendTo('#speakers');
     	$('li a').removeClass('active');
 			     	
@@ -17,6 +19,7 @@ var app = $.sammy('#main', function() {
 			$('#accordion2').accordion({ autoHeight: false, collapsible: true });
 			$('li a').removeClass('active');
 			$('a.nav_agenda').addClass('active');
+			this.load('templates/sponsorlogos.template').appendTo('div.sponsors');
 		});	
 
 	});
@@ -25,6 +28,7 @@ var app = $.sammy('#main', function() {
 		this.partial('templates/info.template').then(function() {
 			$('li a').removeClass('active');
 			$('a.nav_info').addClass('active');
+			this.load('templates/sponsorlogos.template').appendTo('div.sponsors');
 		});
 
 	});
@@ -33,12 +37,15 @@ var app = $.sammy('#main', function() {
 		this.partial('templates/participants.template').then(function() {
 			$('li a').removeClass('active');
 			$('a.nav_participants').addClass('active');
+			this.load('templates/sponsorlogos.template').appendTo('div.sponsors');
 		});
 
 	});
 	
 	this.get('#/press', function(context) {
-		this.partial('templates/press.template');			
+		this.partial('templates/press.template').then(function() {
+    	 	this.load('templates/sponsorlogos.template').appendTo('div.sponsors')
+    	});			
 		$('li a').removeClass('active');
 		$('a.nav_press').addClass('active');
 	});
@@ -47,13 +54,16 @@ var app = $.sammy('#main', function() {
 		this.partial('templates/registration.template').then(function() {
 			$('li a').removeClass('active');
 			$('a.nav_registration').addClass('active');
+			this.load('templates/sponsorlogos.template').appendTo('div.sponsors');
 		});
 
 	});
 	
 	this.get('#/speakers', function(context) {
 		var speaker = this.params['id'];
-		this.partial('templates/speakers.template');
+		this.partial('templates/speakers.template').then(function() {
+			this.load('templates/sponsorlogos.template').appendTo('div.sponsors')
+		});
 		this.load('data/speakers.json').renderEach('templates/speakers-bio.template').appendTo('#speakers').then(
 			function() {				
 				if(undefined != speaker) {
