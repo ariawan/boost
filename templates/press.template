@@ -1,6 +1,21 @@
-<section id="media" style="margin-top:30px;height:800px;">
-	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:10px">MEDIA PARTNERS</h4>
+<section id="collateral" style="margin-top:30px;height:250px;">
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:10px">COLLATERAL</h4>
+	<h5 style="text-align: center;">300x100</h5>
+	<p style="text-align: center;"><img src="/images/logo2.png" alt="BOOST Asia Conference"></p>
+	<div style="text-align: center;">
+	<form method="post"><textarea style="width:400px;" rows="3" cols="55" name="textarea"><a href="http://www.boost-asia.com/"><img src="http://www.boost-asia.com/images/logo2.png" alt="BOOST Asia Conference"/></a> </textarea></div>
+	</form>
+</section>
+<section id="media" style="margin-top:30px;height:500px;">
+	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:10px">PRESS COVERAGE</h4>
+	<p style="text-align:center;"><a href="http://tekno.kompas.com/read/2011/12/16/13272455/Boost.Coba.Sambungkan.Silicon.Valley.dan.Indonesia">Boost Coba Sambungkan Silicon Valley dan Indonesia (tekno.kompas.com 12/2011)</a></p>
+	<br>
+	<p style="text-align:center;"><a href="http://www.infobanknews.com/2011/12/bisnis-game-peluang-bagi-perusahaan-startup/">Bisnis Game Peluang Bagi Perusahaan Startup (Infobanknews 12/2011)</a></p>
+	<br>
+	<p style="text-align:center;"><a href="http://jaringnews.com/ekonomi/ukm/6814/boost-siap-dukung-wirausaha-ti-di-indonesia">Boost Siap Dukung Wirausaha TI Di Indonesia (Jaringnews 12/2011)</a></p>
+	<br>
 </section>
 <aside id="sponsors">
-	<div class="sponsors"></div>
+	<div class="sponsors">
+	</div>
 </aside>
