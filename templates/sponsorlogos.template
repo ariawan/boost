@@ -1,19 +1,25 @@
                 <p style="text-align: center;">SPONSORS:</p>
-                <p style="text-align: center;"><a href="http://www.biznetnetworks.com"><img src="/images/sponsors/biznetlogo.png" class="sponsorlogo"></a> </p>
-                <p style="text-align: center;"><a href="http://www.gree.co.jp"><img src="/images/sponsors/greelogo.png" class="sponsorlogo"></a> </p>
-                <br>
-                <br>
-                <p style="text-align: center;">UNIVERSITY PARTNERS:</p>
-                <p style="text-align: center;"><a href="http://www.binus.ac.id"><img src="/images/sponsors/binuslogo.png" class="sponsorlogo"></a> </p>
-                <br>
-                <br>
-                <p style="text-align: center;">COMMUNITY PARTNERS:</p>
-                <p style="text-align: center;"><a href="http://www.startuplokal.org"><img src="/images/sponsors/startuplokal.png" class="sponsorlogo"></a> </p>
-                <br>
-                <br>
-                <p style="text-align: center;">MEDIA PARTNERS:</p>
-                <p style="text-align: center;"><a href="http://wwww.dailysocial.net"><img src="/images/sponsors/dailysociallogo.png" class="medialogo"></a> </p>
-                <p style="text-align: center;"><img src="/images/sponsors/binustvlogo.png" class="medialogo2"> </p>
-                <p style="text-align: center;"><img src="/images/sponsors/wartalogo.png" class="medialogo2"> </p>
-                <p style="text-align: center;"><img src="/images/sponsors/buletinlogo.png" class="medialogo2"> </p>
-                <p style="text-align: center;"><img src="/images/sponsors/mindlogo.png" class="medialogo2"> </p>
+                <p style="text-align: center;"><a href="http://www.biznetnetworks.com"><img src="/images/sponsors/biznetlogo.png"></a> </p>
+                <p style="text-align: center;"><a href="http://www.xl.co.id"><img src="/images/sponsors/xllogo.png"></a> </p>
+                <p style="text-align: center;margin-top:10px;"><a href="http://www.gree.co.jp"><img src="/images/sponsors/greelogo.png"></a> </p>
+                <p style="text-align: center;margin-top:70px;">UNIVERSITY PARTNERS:</p>
+                <p style="text-align: center;"><a href="http://www.binus.ac.id"><img src="/images/sponsors/binuslogo.png"></a> </p>
+                <p style="text-align: center;margin-top:25px;">MEDIA PARTNERS:</p>
+                <p style="text-align: center;"><a href="http://www.dailysocial.net"><img src="/images/sponsors/dailysociallogo.png"></a> </p>
+                <p style="text-align: center;"><a href="http://www.beritasatu.com"><img src="/images/sponsors/beritasatu.png"></a> </p>
+                <p style="text-align: center;margin-top:25px;">COMMUNITY PARTNERS:</p>
+                <p style="text-align: center;"><a href="http://www.startuplokal.org"><img src="/images/sponsors/startuplokal.png"></a> </p>
+                <p style="text-align: center;margin-top:25px;">IN COLLABORATION WITH:</p>
+                <p style="text-align: center;">
+		<a href="http://www.thejakartaglobe.com"><img src="/images/sponsors/jakartaglobe.png"></a>
+		<a href="http://www.binus.tv"><img src="/images/sponsors/binustvlogo.png"></a>
+                <img src="/images/sponsors/wartalogo.png">
+                <img src="/images/sponsors/buletinlogo.png">
+                <img src="/images/sponsors/mindlogo.png"> </p>
+		
+		<!--
+                <p style="text-align: center;"><img src="/images/sponsors/binustvlogo.png"> </p>
+                <p style="text-align: center;"><img src="/images/sponsors/wartalogo.png"> </p>
+                <p style="text-align: center;"><img src="/images/sponsors/buletinlogo.png"> </p>
+                <p style="text-align: center;"><img src="/images/sponsors/mindlogo.png"> </p>
+		-->
