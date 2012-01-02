@@ -30,12 +30,13 @@
 
 <body lang="en">
 	<header>
-		<aside style="margin-top:0px; padding:0px;">
-        	<h4 style=";text-align:center;padding: 0px 0px 0px 0px;font-weight:500;color:#F15A29"><a href="#/registration" class="button orange">REGISTER<br>TODAY</a></h4>
+		<aside style="margin-top:20px">
+			<h4 class="sidehead">Intercontinental Jakarta</h4>
+			<h4 class="sidehead">17 - 18 January 2012</h4>			
 		</aside>
 		<section id="logo">
 			<a href="#/"><img src="/images/logo.png" alt="logo"></a>
-			<h4 style="font-size:18px;font-weight:300;">17-18 January 2012, InterContinental Hotel, Jakarta</h4>
+			<h4 style="font-size:18px;font-weight:300;">From The Valley To Indonesia</h4>
 		</section>
 	</header>
 	<hr style="padding-top:20px;">
@@ -52,7 +53,7 @@
 	</nav>
 	<hr>	
 	<article id="main">	
-	<h4>**Woops! It seems something has gone wrong! <br> If you're viewing this website on a mobile device or on a browser without javascript capability, please <a href="http://boost.param.mobi">click here</a>. Otherwise, email us at <a href="mailto:info@boost-asia.com">info@boost-asia.com</a> so that we can figure out what's wrong.</h4>
+	<p style="font-weight:200">**Woops! It seems something has gone wrong! <br> If you're viewing this website on a mobile device or on a browser without javascript capability, please <a href="http://boost.param.mobi">click here</a>. Otherwise, email us at <a href="mailto:info@boost-asia.com">info@boost-asia.com</a> so that we can figure out what's wrong.</p>
 	</article>	
 	<hr>
 	<footer style="margin-top:20px;">
