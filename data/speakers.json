@@ -108,5 +108,15 @@
 		"Company": "Cookpad",
 		"Job_Title": "Founder & CEO",
 		"id": "aki_sano"
+	},
+	{
+		"Name": "Teruhide Sato",
+		"Bio": "Teru Sato is the President and Group CEO of netprice.com, Ltd., a global internet and e-commerce business incubator (Tokyo Stock Exchange 3328) and leads the company to deliver the latest experience in online shopping across Japan, US, Europe and China. In 2008, the company was elected as Global Growth Companies by World Economic Forum, and himself also bestowed with the honor of Young Global Leaders. Prior to establishing netprice.com, Teru launched an online payment company CyberCash  as a JV with Softbank Corporation in 1997. Teru is also a board of director and co-founder of Open Network Labs with the belief in the power of entrepreneurship.",
+		"Photo": "/images/photos/Teruhide_Sato.png",
+		"Website": "http://netprice.com",
+		"Twitter": "terusato",
+		"Company": "netprice.com Ltd",
+		"Job_Title": "President & Group CEO",
+		"id": "teruhide_sato"
 	}
 ]
