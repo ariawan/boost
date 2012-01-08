@@ -118,5 +118,15 @@
 		"Company": "netprice.com Ltd",
 		"Job_Title": "President & Group CEO",
 		"id": "teruhide_sato"
+	},
+	{
+		"Name": "Tatsuo Tsutsumi",
+		"Bio": "Tatsuo Tsutsumi is a partner at GREE Ventures. Tatsuo has over 14 years of experience in management of and investment internet companies. He worked for the Management Consulting Division of Sanwa Research Institute Corporation where he was involved in strategic development and implementation support of mid-sized Japanese businesses. After Sanwa Research Institute Corporation, he joined Global Brain Corporation which is an independent venture capital in Japan. After Global Brain, he joined  Cyber Agent which is  major internet company in Japan, and launched  many internet services and Venture Capital  arms of Cyber Agent (Cyber Agent Ventures).He  raised two venture fund. After Cyber Agent, he joined RECRUIT which is largest information service provider in Japan. He developed some new business and manage Venture Capital arms of RECRUIT(Recruit Incubation Partners) He invested 15 start-up companies. He received a BA in Philosophy from Keio University and a MA in Media & Governance from the Keio Graduate School.",
+		"Photo": "/images/photos/Tatsuo_Tsutsumi.png",
+		"Website": "http://netprice.com",
+		"Twitter": "http://www.gree.co.jp",
+		"Company": "GREE",
+		"Job_Title": "GREE Ventures Partner",
+		"id": "tatsuo_tsutsumi"
 	}
 ]
