@@ -1,98 +1,98 @@
 [
 	{
 		"Name": "Ada Diskon",
-		"Description": "",
-		"url": "",
+		"Description": "Indonesia's Largest Online Media & Community specializing on deals and promotional news",
+		"url": "www.adadiskon.com",
 		"id": "ada_diskon"
 	},
 	{
 		"Name": "Agate",
-		"Description": "",
-		"url": "",
+		"Description": "Agate Studio is a game developer company creating wide range of games",
+		"url": "agatestudio.com",
 		"id": "agate"
 	},
 	{
 		"Name": "Bistip",
-		"Description": "",
-		"url": "",
+		"Description": "Bistip is a peer-to-peer courier service. Bistip connects travelers who has extra space on their luggage to item lookers. Bistip is disruptive because it creates new marketplace and a new role that we called freelance courier.",
+		"url": "www.bistip.com",
 		"id": "bistip"
 	},
 	{
 		"Name": "Eksis",
-		"Description": "",
+		"Description": "Eksis is an online platform that utilizes Facebook’s social networking technology to connect jobseekers and employers in Indonesia.",
 		"url": "",
 		"id": "eksis"
 	},
 	{
 		"Name": "Gushcloud",
-		"Description": "",
-		"url": "",
+		"Description": "Gushcloud is a crowdsourced social marketing platform that makes online marketing and advertising a rewarding social activity.",
+		"url": "gushcloud.com",
 		"id": "gushcloud"
 	},
 	{
 		"Name": "Krazymarket",
-		"Description": "",
-		"url": "",
+		"Description": "KrazyMarket is an online marketplace for collectibles and hobby-related items. Our mission is to provide a fun, secure, and convenient place for people to connect and trade collectible and hobby related goods - and also to grow and support special interest communities.",
+		"url": "krazymarket.com",
 		"id": "krazymarket"
 	},
 	{
 		"Name": "Nawartrus",
-		"Description": "",
-		"url": "",
+		"Description": "Online discount shopping website",
+		"url": "nawartrus.com",
 		"id": "nawartrus"
 	},
 	{
 		"Name": "Ngomik.com",
-		"Description": "",
-		"url": "",
+		"Description": "Ngomik.com is a digital publishing platform for comics, artworks, and stories.",
+		"url": "www.ngomik.com",
 		"id": "ngomik"
 	},
 	{
 		"Name": "Nulisbuku",
-		"Description": "",
-		"url": "",
+		"Description": "The first online selfpublishing - print on demand service in Indonesia",
+		"url": "nulisbuku.com",
 		"id": "nulisbuku"
 	},
 	{
 		"Name": "Posident",
-		"Description": "",
+		"Description": "Posident provides an integrated web, tablet and mobile hosted solution for restaurant delivery and takeout. The system is integrated with the restaurant POS system providing an end-to-end solution for the restaurant industry.",
 		"url": "",
 		"id": "posident"
 	},
 	{
 		"Name": "Sedapur",
-		"Description": "",
-		"url": "",
+		"Description": "One stop solution for culinary industry to the e-commerce, we are lifting awareness of Indonesian Culinary by providing a portal to connect people who make, deliver, & eat great food through e-commerce solution",
+		"url": "www.sedapur.com",
 		"id": "sedapur"
 	},
 	{
 		"Name": "Tapestrix",
-		"Description": "",
-		"url": "",
+		"Description": "Tapestrix is a customizable, white label social media platform, scalable for deployment from SMEs up to enterprise level deployment",
+		"url": "www.tapestrix.net",
 		"id": "tapestrix"
 	},
 	{
 		"Name": "Toge Productions",
-		"Description": "",
-		"url": "",
+		"Description": "Toge Productions is an Award-Winning game development studio based in Indonesia. We focus on developing casual, social, and multiplayer web-based games, and also mobile games.",
+		"url": "togeproductions.com",
 		"id": "toge"
 	},
 	{
 		"Name": "Tokopedia",
-		"Description": "",
-		"url": "",
+		"Description": "Tokopedia.com is a leading C2C online mall in Indonesia, that provide real e-commerce platform.",
+		"url": "www.tokopedia.com",
 		"id": "tokopedia"
 	},
 	{
 		"Name": "Valadoo",
-		"Description": "",
-		"url": "",
+		"Description": "Valadoo.com is an eCommerce that offers discounted vacation, leisure, activity & destination packages.",
+		"url": "www.valadoo.com",
 		"id": "valadoo"
 	},
 	{
 		"Name": "MySellr",
-		"Description": "",
-		"url": "",
+		"Description": "MySellr Social Commerce allows its users to sell products directly to their social media fans and followers in Facebook and Twitter",
+		"url": "mysellr.com",
 		"id": "mysellr"
 	}
 ]
