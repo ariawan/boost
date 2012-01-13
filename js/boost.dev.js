@@ -77,6 +77,24 @@ var app = $.sammy('#main', function() {
 		$('a.nav_speakers').addClass('active');		
 	});
 	
+	this.get('#/boost50', function(context) {
+		var startup = this.params['id'];
+		this.partial('templates/boost50.template').then(function() {
+			this.load('templates/sponsorlogos.template').appendTo('div.sponsors')
+		});
+		this.load('data/boost50.json').renderEach('templates/boost50-bio.template').appendTo('#boost50').then(
+			function() {				
+				if(undefined != startup) {
+    				var new_position = $('li#'+startup).offset();
+    				window.scrollTo(new_position.left,new_position.top);
+    				return false;
+				}
+			}
+		);
+		$('li a').removeClass('active');
+		$('a.nav_boost50').addClass('active');		
+	});
+	
 	this.get('#/save_email', function(context) {
     	var email = JSON.stringify({"email":this.params['email']}) ;  
    		$.ajax({

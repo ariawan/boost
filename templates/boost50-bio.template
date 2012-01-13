@@ -1,0 +1,7 @@
+<li id="<%= id %>" style="margin-bottom:40px;">
+	<article style="position:relative;">
+		<h2 style="position:absolute;display:block;font-size:16px;text-align:left;width:446px;"><%= Name %></h2>
+		<p class="startup-url" style="position:absolute;display:block;margin:30px 0 0 184px;font-weight:300;font-size:14px;text-align:left;width:446px;"><a href="http://<%= url %>"><%= url %></a></p>
+		<p class="startup-bio" style="padding-top:60px;padding-left:20px;font-weight:300;font-size:14px;line-height:150%"><%= Description %></p>	
+	</article>
+</li>
