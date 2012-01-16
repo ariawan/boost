@@ -2,12 +2,10 @@
 
 	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">ENTREPRENEURS</h4>
 	
-	<h5> Boost 50 Registration is closed. Thank you to all applicants. We will get back to you by January 5th for the selection result. </h5>
+	<h5> Boost 50 Registration is closed. Thank you to all applicants. </h5>
 
 	<!--<h5> Boost 50 Registration has been extended until DECEMBER 31st, 2011 </h5> -->
 	
-	<p style="margin-top:30px;font-weight:500">Ticket Price: Rp. 1 Million (for 2 persons)</p>
-	<p style="margin-top:30px;font-weight:300">Do you have a Startup? If so you and one of your team members can apply to become a BOOST 50 entrepreneur. BOOST 50 entrepreneurs receive preferential ticket pricing and also can take part in small group mentoring sessions with speakers and other established entrepreneurs from the US and Japan.</p>
 
 	<!--<p style="margin-top:30px;font-weight:300">To apply:</p>
 	<ul style="font-weight:300;line-height:140%;">
@@ -21,18 +19,9 @@
 
 <section id="who" style="margin-top:30px;margin-bottom:0px">
 	<h4 style="background:url('/images/arrow.png') center left no-repeat;padding-left:22px;margin-bottom:20px">GENERAL ADMISSION</h4>
-
-	<p style="margin-top:30px;font-weight:500">Ticket Price: Rp. 5 Million (for 1 person)</p>
-
-
-	<p style="margin-top:30px;font-weight:500">SPECIAL DISCOUNT UNTIL 10 JANUARY 2012!</p>
-	<ul style="font-weight:300;line-height:140%;">
-		<li style="list-style:disc;margin-left:22px">1 Ticket - Rp. 4 Million (20% discount)</li>
-		<li style="list-style:disc;margin-left:22px">2 Tickets - Rp. 7.5 Million (Rp. 3.8 Million per ticket or 25% discount)</li>
-		<li style="list-style:disc;margin-left:22px">3 Tickets - Rp. 10 Million (Rp. 3.3 Million per ticket or 33% discount)</li>
-		<li style="list-style:disc;margin-left:22px">4 Tickets - Rp. 12 Million (Rp. 3.0 Million per ticket or 40% discount) - each subsequent tickets will also be priced at Rp. 3 Million</li>
-	</ul>
 	
+	<h5> Online General Admission Ticket is closed. But we still accepting registration on the spot (while tickets last, first come first serve) Please come at 8AM tomorrow to Intercontinental Hotel. </h5>
+
 	<!--
 	<p style="margin-top:140px;font-weight:300"> Who should attend Boost?</p>
 	<ul style="font-weight:300;line-height:140%;">
@@ -43,18 +32,6 @@
 		<li style="list-style:disc;margin-left:22px">Anyone who wants to be surrounded by highly creative and passionate people!</li>
 	</ul>
 	-->
-
-	<p style="margin-top:140px;font-weight:300">International participants:
-	<script type="text/javascript" src="https://www.amiando.com/resources/js/ticketshop-popup.js"></script><a href="#" onclick="return amiandoTicketShopPopup('https://www.amiando.com/boost?panelId=1212573&useDefaults=false', 650, 450);">please click here (pop-up)</a>
-	to buy tickets online in US$ using your credit card. *Please use the promotion code "special2012" for discounts<br/>
-	<a href="#" onclick="return amiandoTicketShopPopup('https://www.amiando.com/boost?panelId=1212573&useDefaults=false', 650, 450);" class="button orange">Buy Tickets For International Participants (pop-up)</a>
-	</p>
-	
-	<p style="margin-top:30px;font-weight:300">Indonesian participants: please fill out this <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDhfdXJFMGNsaDdrTlJZRWVudmx4OGc6MQ" target="_blank">registration form</a> and we'll get back to you with an invoice and instruction for payment in Indonesian Rupiah (IDR) using bank transfer, debit and/or credit card.<br/>
-	<a class="button orange" href="https://docs.google.com/spreadsheet/viewform?formkey=dDhfdXJFMGNsaDdrTlJZRWVudmx4OGc6MQ" target="_blank">Buy Tickets For Indonesian</a>
-	</p>
-	<p style="margin-top:30px;font-weight:500">*Please note that prices will be charged additional 10% for VAT
-	</p>
 </section>
 <aside id="sponsors">	
 	<div class="sponsors"></div>
